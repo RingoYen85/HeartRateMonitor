@@ -1,0 +1,376 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>Total_Functions module &mdash; BME 590 Assignment 02 Heart Rate Monitor v1.0.0 documentation</title>
+    
+    <link rel="stylesheet" href="_static/alabaster.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    './',
+        VERSION:     'v1.0.0',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true
+      };
+    </script>
+    <script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/underscore.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+    <link rel="top" title="BME 590 Assignment 02 Heart Rate Monitor v1.0.0 documentation" href="index.html" />
+   
+  <link rel="stylesheet" href="_static/custom.css" type="text/css" />
+  
+  <meta name="viewport" content="width=device-width, initial-scale=0.9, maximum-scale=0.9" />
+
+  </head>
+  <body role="document">
+  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body" role="main">
+            
+  <div class="section" id="module-Total_Functions">
+<span id="total-functions-module"></span><h1>Total_Functions module<a class="headerlink" href="#module-Total_Functions" title="Permalink to this headline">¶</a></h1>
+<p>Created on Sun Sep 25 22:31:50 2016</p>
+<p>&#64;author: ringoyen</p>
+<dl class="function">
+<dt id="Total_Functions.display_metrics">
+<code class="descclassname">Total_Functions.</code><code class="descname">display_metrics</code><span class="sig-paren">(</span><em>instant_hr</em>, <em>ecg_time_num</em>, <em>one_min_avg</em>, <em>five_min_avg</em>, <em>bradycardia=60</em>, <em>tachycardia=100</em><span class="sig-paren">)</span><a class="headerlink" href="#Total_Functions.display_metrics" title="Permalink to this definition">¶</a></dt>
+<dd><p>This function should take the instantaneous heart rate, the ecg time, the one min and five min heart rate
+average and displays them to the terminal.  If the instantaneous heart rate is less than 60 or over 100 - then
+bradycardia/tachycardia conditions will be alarmed.</p>
+<table class="docutils field-list" frame="void" rules="none">
+<col class="field-name" />
+<col class="field-body" />
+<tbody valign="top">
+<tr class="field-odd field"><th class="field-name">Parameters:</th><td class="field-body"><ul class="first simple">
+<li><strong>instant_hr</strong> &#8211; Instantaneous heart rate found</li>
+<li><strong>ecg_time_num</strong> &#8211; ecg time (signal time)</li>
+<li><strong>one_min_avg</strong> &#8211; 1 min heart rate average</li>
+<li><strong>five_min_avg</strong> &#8211; 5 min heart rate average</li>
+<li><strong>bradycardia</strong> &#8211; Threshold for bradycardia. Default is 60 bpm.</li>
+<li><strong>tachycardia</strong> &#8211; Threhold for tachycardia. Default is 100 bpm.</li>
+</ul>
+</td>
+</tr>
+<tr class="field-even field"><th class="field-name">Returns:</th><td class="field-body"><p class="first last">0 - the function just prints to the terminal so 0 is returned to indicate the end of the function.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</dd></dl>
+
+<dl class="function">
+<dt id="Total_Functions.ecg_time">
+<code class="descclassname">Total_Functions.</code><code class="descname">ecg_time</code><span class="sig-paren">(</span><em>ecg_data</em>, <em>f_s</em><span class="sig-paren">)</span><a class="headerlink" href="#Total_Functions.ecg_time" title="Permalink to this definition">¶</a></dt>
+<dd><p>This function takes in the sampling frequency and the ECG data array found above
+and determines an array for the ECG Time.  There are logging functionalities to allow for debugging.</p>
+<table class="docutils field-list" frame="void" rules="none">
+<col class="field-name" />
+<col class="field-body" />
+<tbody valign="top">
+<tr class="field-odd field"><th class="field-name">Parameters:</th><td class="field-body"><ul class="first simple">
+<li><strong>f_s</strong> &#8211; This is the sampling frequency in hertz.</li>
+<li><strong>ecg_data</strong> &#8211; This is the array of ecg data that comes from the reader function.</li>
+</ul>
+</td>
+</tr>
+<tr class="field-even field"><th class="field-name">Returns:</th><td class="field-body"><p class="first last">ecg_time_values, which is an array of time values in seconds that correspond to the ecg data.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</dd></dl>
+
+<dl class="function">
+<dt id="Total_Functions.find_instantaneous_heart_rate">
+<code class="descclassname">Total_Functions.</code><code class="descname">find_instantaneous_heart_rate</code><span class="sig-paren">(</span><em>ecgData</em>, <em>ecgTime</em>, <em>ecgThreshold</em><span class="sig-paren">)</span><a class="headerlink" href="#Total_Functions.find_instantaneous_heart_rate" title="Permalink to this definition">¶</a></dt>
+<dd><p>This function determines the number of number of ECG Waveforms, by locating the peaks of each waveform
+and recording the time of these peaks.  The peaks are located by using the threshold value set, and the condition
+that the peak value should be larger then the value before and after it.  Once this is done, the time of these peaks
+is used to find the instantaneous heart rate.  This is done by taking the difference in time in between 2 peaks
+and inverting this difference. This is then multiplied by 60.  There should be multiple heart rates in the array,
+the values are averaged to get 1 value for the instantaneous heart rate.</p>
+<table class="docutils field-list" frame="void" rules="none">
+<col class="field-name" />
+<col class="field-body" />
+<tbody valign="top">
+<tr class="field-odd field"><th class="field-name">Parameters:</th><td class="field-body"><ul class="first simple">
+<li><strong>ecgData</strong> &#8211; The ECG Array that is fed into the function.  This should be smoothed with offsets removed.</li>
+<li><strong>ecgTime</strong> &#8211; This is the time array that corresponds to the ECG array.</li>
+<li><strong>ecgThreshold</strong> &#8211; This is the ECG threshold used to find peaks.</li>
+</ul>
+</td>
+</tr>
+<tr class="field-even field"><th class="field-name">Returns:</th><td class="field-body"><p class="first last">instant_hr_actual  - the instantaneous heart rate returned by the function.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</dd></dl>
+
+<dl class="function">
+<dt id="Total_Functions.find_threshold">
+<code class="descclassname">Total_Functions.</code><code class="descname">find_threshold</code><span class="sig-paren">(</span><em>ecg_data</em>, <em>f_s</em>, <em>factor=5</em>, <em>threshold_multiply=0.85</em><span class="sig-paren">)</span><a class="headerlink" href="#Total_Functions.find_threshold" title="Permalink to this definition">¶</a></dt>
+<dd><p>This function takes in about 5 seconds worth of ecg samples (assuming the ecg_data array entered is at least 5
+seconds long) and uses that 5 second array to set a threshold for the peak detect algorithm
+used in the code to determine heart rates.  This is done by taking the max of the 5 seconds worth of data and then
+multiplying that max by 0.85.</p>
+<table class="docutils field-list" frame="void" rules="none">
+<col class="field-name" />
+<col class="field-body" />
+<tbody valign="top">
+<tr class="field-odd field"><th class="field-name">Parameters:</th><td class="field-body"><ul class="first simple">
+<li><strong>ecg_data</strong> &#8211; The array of ecg data that is entered. It should be at least 5 seconds long.</li>
+<li><strong>f_s</strong> &#8211; The sampling frequency</li>
+<li><strong>factor</strong> &#8211; This is default 5, to represent 5 seconds of ecg data.</li>
+<li><strong>threshold_multiply</strong> &#8211; This is set to 0.85 default.</li>
+</ul>
+</td>
+</tr>
+<tr class="field-even field"><th class="field-name">Returns:</th><td class="field-body"><p class="first last">ecgThreshold - the threshold ECG Value that dictates a peak in the heart rate signal.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</dd></dl>
+
+<dl class="function">
+<dt id="Total_Functions.five_minute_avg">
+<code class="descclassname">Total_Functions.</code><code class="descname">five_minute_avg</code><span class="sig-paren">(</span><em>ecg_data</em>, <em>threshold</em>, <em>time_counter</em>, <em>interval_sec_five_min=300</em><span class="sig-paren">)</span><a class="headerlink" href="#Total_Functions.five_minute_avg" title="Permalink to this definition">¶</a></dt>
+<dd><p>This function is essentially the same as the above function, except the time counter has an activating value
+of 300, not 60, because there&#8217;s 300 seconds in 5 minutes.</p>
+<table class="docutils field-list" frame="void" rules="none">
+<col class="field-name" />
+<col class="field-body" />
+<tbody valign="top">
+<tr class="field-odd field"><th class="field-name">Parameters:</th><td class="field-body"><ul class="first simple">
+<li><strong>ecg_data</strong> &#8211; Array of ECG data</li>
+<li><strong>threshold</strong> &#8211; Threshold to find peaks</li>
+<li><strong>time_counter</strong> &#8211; Time counter to activate the function</li>
+<li><strong>interval_sec_five_min</strong> &#8211; 300 seconds</li>
+</ul>
+</td>
+</tr>
+<tr class="field-even field"><th class="field-name">Returns:</th><td class="field-body"><p class="first last">five_min_avg - a five minute heart rate average.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</dd></dl>
+
+<dl class="function">
+<dt id="Total_Functions.low_pass_filter">
+<code class="descclassname">Total_Functions.</code><code class="descname">low_pass_filter</code><span class="sig-paren">(</span><em>ecg_data</em>, <em>window_size=5</em><span class="sig-paren">)</span><a class="headerlink" href="#Total_Functions.low_pass_filter" title="Permalink to this definition">¶</a></dt>
+<dd><p>This function takes an an array of ecg data and applies a convolution with a rect of ones (5 length). After the
+convolution, the array of ecg data is then divided by the kernel length.  This process is essentially a low pass
+filter, removing high frequency noise in the signal.</p>
+<table class="docutils field-list" frame="void" rules="none">
+<col class="field-name" />
+<col class="field-body" />
+<tbody valign="top">
+<tr class="field-odd field"><th class="field-name">Parameters:</th><td class="field-body"><ul class="first simple">
+<li><strong>ecg_data</strong> &#8211; This is the array of ecg_data that is being smoothed.</li>
+<li><strong>window_size</strong> &#8211; The window size is by default 5, and it dictates the size of the kernel.</li>
+</ul>
+</td>
+</tr>
+<tr class="field-even field"><th class="field-name">Returns:</th><td class="field-body"><p class="first last">ecg_smooth, which is an array of ecg_data which should have noise smoothed out and reduced.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</dd></dl>
+
+<dl class="function">
+<dt id="Total_Functions.main">
+<code class="descclassname">Total_Functions.</code><code class="descname">main</code><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#Total_Functions.main" title="Permalink to this definition">¶</a></dt>
+<dd><p>In this main function, there are a set of args parse functions that allow the user to utilize args parse to
+choose arguments when running this script in the command window.  The code begins by reading in the data file and
+creating 3 outputs which represent the sampling frequency, the pulse plethysmograph data and the ecg data.
+The ecg data and the sampling frequency are use to construct a linear time array that corresponds to the ecg
+data.  4 empty numpy arrays are initialized.  One array is for ecg data used to calculate the one min heart rate
+average.  The second array is used to calculate the five min heart rate average data.  The third array is to store
+the instantaneous heart rate data, so that it can be used to plot a trace of the heart rate vs time, after
+the end of the code.  The fourth empty array is used to capture the time in minutes so it can be plotted with the
+heart rate trace.  Once the data is read in, it is incremented into indices (chunks) and then processed.  Each chunk
+taken is about 10 seconds long (sampling frequency times 10 seconds).  The chunk is used to find the instantaenous
+heart rate and then it is stored.  The one min averages and five minute averages are not calculated until the time
+counter reaches 60 seconds and 300 seconds, respectively.  Once the time counters reach those points, the one min
+and five min averages constantly update.  An array holding 1 min and another array holding 5 minutes of ecg data are
+are updated (oldest 10 seconds of data dumped, newest 10 seconds added in) and those arrays are used to calculate
+updating 1 and 5 min heart rate averages.</p>
+</dd></dl>
+
+<dl class="function">
+<dt id="Total_Functions.one_minute_avg">
+<code class="descclassname">Total_Functions.</code><code class="descname">one_minute_avg</code><span class="sig-paren">(</span><em>ecg_data</em>, <em>threshold</em>, <em>time_counter</em>, <em>interval_sec_one_min=60</em><span class="sig-paren">)</span><a class="headerlink" href="#Total_Functions.one_minute_avg" title="Permalink to this definition">¶</a></dt>
+<dd><p>This function takes in the array of ecg data, a threshold, a time counter value and a 60 second value
+to find the 1 min heart rate average.  The same peak detect algorithm used in the previous function is used.
+The total number of counts (peaks) is divided by 60 and multiplied by 60 to get bpm for a min.  The time counter
+is needed to activate the function.  For time under 60 seconds, the function will not calculate averages (bc there
+is not 1 minutes worth of data yet!). With time counter values over 60 seconds, the function will find the 1 min
+averages.</p>
+<table class="docutils field-list" frame="void" rules="none">
+<col class="field-name" />
+<col class="field-body" />
+<tbody valign="top">
+<tr class="field-odd field"><th class="field-name">Parameters:</th><td class="field-body"><ul class="first simple">
+<li><strong>ecg_data</strong> &#8211; Array of ECG data to be processed</li>
+<li><strong>threshold</strong> &#8211; Threshold used to find peaks</li>
+<li><strong>time_counter</strong> &#8211; A metric to determine when to start finding 1 min heart rate averages.</li>
+<li><strong>interval_sec_one_min</strong> &#8211; 60 seconds, because there are 60 seconds in a min.</li>
+</ul>
+</td>
+</tr>
+<tr class="field-even field"><th class="field-name">Returns:</th><td class="field-body"><p class="first last">one_min_avg - a one min average heart rate.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</dd></dl>
+
+<dl class="function">
+<dt id="Total_Functions.parse_hr">
+<code class="descclassname">Total_Functions.</code><code class="descname">parse_hr</code><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#Total_Functions.parse_hr" title="Permalink to this definition">¶</a></dt>
+<dd><p>This function allows the user to run the script in the command window and specify arguments.  The arguments are for
+the data file to be run, one argument to allow for either ecg data or both ecg data and pp data, one argument to
+specify bradycardia, another to specify tachycardia, and finally one to specify the duration of the multi min
+averages.</p>
+<table class="docutils field-list" frame="void" rules="none">
+<col class="field-name" />
+<col class="field-body" />
+<tbody valign="top">
+<tr class="field-odd field"><th class="field-name">Returns:</th><td class="field-body">args - This is the output for the argparser function.</td>
+</tr>
+</tbody>
+</table>
+</dd></dl>
+
+<dl class="function">
+<dt id="Total_Functions.plot_heart_rate">
+<code class="descclassname">Total_Functions.</code><code class="descname">plot_heart_rate</code><span class="sig-paren">(</span><em>hr_data</em>, <em>time_data</em><span class="sig-paren">)</span><a class="headerlink" href="#Total_Functions.plot_heart_rate" title="Permalink to this definition">¶</a></dt>
+<dd><p>This function just takes in an array of heart rate data and plots it versus an array of time data that corresponds
+to the heart rate data.</p>
+<table class="docutils field-list" frame="void" rules="none">
+<col class="field-name" />
+<col class="field-body" />
+<tbody valign="top">
+<tr class="field-odd field"><th class="field-name">Parameters:</th><td class="field-body"><ul class="first simple">
+<li><strong>hr_data</strong> &#8211; Array of heart rate data to be traced/plotted.</li>
+<li><strong>time_data</strong> &#8211; Time that the heart rate is found at.</li>
+</ul>
+</td>
+</tr>
+<tr class="field-even field"><th class="field-name">Returns:</th><td class="field-body"><p class="first last">zero. Just plotting.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</dd></dl>
+
+<dl class="function">
+<dt id="Total_Functions.reading_data">
+<code class="descclassname">Total_Functions.</code><code class="descname">reading_data</code><span class="sig-paren">(</span><em>data_file</em>, <em>data_choice</em><span class="sig-paren">)</span><a class="headerlink" href="#Total_Functions.reading_data" title="Permalink to this definition">¶</a></dt>
+<dd><p>This function is adapted to take in any 3 files of the following types: .bin, .mat or h5.  The reader is designed
+to read in uint16 cast data.  A try except structure is utilized in order to accommodate the 3 file types.  The entire
+data file is read in with the reader functions chosen.  The .bin reader is designed to read in the uint16 data that is
+multiplexed.  It is assumed that the fs is the first data point, the ECG data comes first and then the PP data
+comes next.</p>
+<table class="docutils field-list" frame="void" rules="none">
+<col class="field-name" />
+<col class="field-body" />
+<tbody valign="top">
+<tr class="field-odd field"><th class="field-name">Parameters:</th><td class="field-body"><ul class="first simple">
+<li><strong>data_file</strong> &#8211; The uint16 data file to be loaded into the function. It can be a .mat, h5 or .bin.</li>
+<li><strong>data_choice</strong> &#8211; A string input that dictates if the output of the function will yield Fs, ECG and PP data,
+or just fs and ecg data. If you enter in &#8220;ECG&#8221; only the fs and ECG data is returned. The default
+is to allow the data_choice input be &#8221; &#8221; so all 3 data types are returned.</li>
+</ul>
+</td>
+</tr>
+<tr class="field-even field"><th class="field-name">Returns:</th><td class="field-body"><p class="first last">The function will return 3 data sets, the sampling frequency in Hz (fs), the pp data and ECG data.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</dd></dl>
+
+<dl class="function">
+<dt id="Total_Functions.remove_dc_offset">
+<code class="descclassname">Total_Functions.</code><code class="descname">remove_dc_offset</code><span class="sig-paren">(</span><em>ecg_smooth</em><span class="sig-paren">)</span><a class="headerlink" href="#Total_Functions.remove_dc_offset" title="Permalink to this definition">¶</a></dt>
+<dd><p>This function will remove DC offsets that may be present in the data set.  This is accomplished by
+subtracting the mean from the data.</p>
+<table class="docutils field-list" frame="void" rules="none">
+<col class="field-name" />
+<col class="field-body" />
+<tbody valign="top">
+<tr class="field-odd field"><th class="field-name">Parameters:</th><td class="field-body"><strong>ecg_smooth</strong> &#8211; The input is the ecg data array, that is smoothed and low pass filtered.</td>
+</tr>
+<tr class="field-even field"><th class="field-name">Returns:</th><td class="field-body">ecg_data, which is an array of ecg data which has any possible dc offset removed.</td>
+</tr>
+</tbody>
+</table>
+</dd></dl>
+
+</div>
+
+
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper"><div class="relations">
+<h3>Related Topics</h3>
+<ul>
+  <li><a href="index.html">Documentation overview</a><ul>
+  </ul></li>
+</ul>
+</div>
+  <div role="note" aria-label="source link">
+    <h3>This Page</h3>
+    <ul class="this-page-menu">
+      <li><a href="_sources/Total_Functions.txt"
+            rel="nofollow">Show Source</a></li>
+    </ul>
+   </div>
+<div id="searchbox" style="display: none" role="search">
+  <h3>Quick search</h3>
+    <form class="search" action="search.html" method="get">
+      <input type="text" name="q" />
+      <input type="submit" value="Go" />
+      <input type="hidden" name="check_keywords" value="yes" />
+      <input type="hidden" name="area" value="default" />
+    </form>
+</div>
+<script type="text/javascript">$('#searchbox').show(0);</script>
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="footer">
+      &copy;2016, Ringo Yen.
+      
+      |
+      Powered by <a href="http://sphinx-doc.org/">Sphinx 1.4.1</a>
+      &amp; <a href="https://github.com/bitprophet/alabaster">Alabaster 0.7.8</a>
+      
+      |
+      <a href="_sources/Total_Functions.txt"
+          rel="nofollow">Page source</a>
+    </div>
+
+    
+
+    
+  </body>
+</html>

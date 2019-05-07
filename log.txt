@@ -1,0 +1,1468 @@
+2016-11-01 00:26:08,177 Debug: Just constructed the ECG Time array!!
+2016-11-01 00:26:08,180 Debug: Convolved the ECG signal with the kernel
+2016-11-01 00:26:08,180 Debug: Divided the convolved signal with the kernel
+2016-11-01 00:26:08,180 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 00:26:08,181 debug: The ECG Threshold has just been found
+2016-11-01 00:26:08,181 Info: The instantaneous heart rate average is being calculated
+2016-11-01 00:26:08,185 Info: The one minute heart rate average is being calculated
+2016-11-01 00:26:08,185 Info: The five minute heart rate average is being calculated
+2016-11-01 00:26:08,185 Warning: Tachycardia is happening here!
+2016-11-01 00:26:19,210 Debug: Convolved the ECG signal with the kernel
+2016-11-01 00:26:19,210 Debug: Divided the convolved signal with the kernel
+2016-11-01 00:26:19,211 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 00:26:19,211 debug: The ECG Threshold has just been found
+2016-11-01 00:26:19,211 Info: The instantaneous heart rate average is being calculated
+2016-11-01 00:26:19,215 Info: The one minute heart rate average is being calculated
+2016-11-01 00:26:19,215 Info: The five minute heart rate average is being calculated
+2016-11-01 00:26:19,216 Warning: Tachycardia is happening here!
+2016-11-01 00:26:30,237 Debug: Convolved the ECG signal with the kernel
+2016-11-01 00:26:30,237 Debug: Divided the convolved signal with the kernel
+2016-11-01 00:26:30,237 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 00:26:30,238 debug: The ECG Threshold has just been found
+2016-11-01 00:26:30,238 Info: The instantaneous heart rate average is being calculated
+2016-11-01 00:26:30,243 Info: The one minute heart rate average is being calculated
+2016-11-01 00:26:30,243 Info: The five minute heart rate average is being calculated
+2016-11-01 00:26:30,243 Warning: Tachycardia is happening here!
+2016-11-01 00:26:41,265 Debug: Convolved the ECG signal with the kernel
+2016-11-01 00:26:41,266 Debug: Divided the convolved signal with the kernel
+2016-11-01 00:26:41,266 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 00:26:41,266 debug: The ECG Threshold has just been found
+2016-11-01 00:26:41,266 Info: The instantaneous heart rate average is being calculated
+2016-11-01 00:26:41,270 Info: The one minute heart rate average is being calculated
+2016-11-01 00:26:41,270 Info: The five minute heart rate average is being calculated
+2016-11-01 00:26:41,271 Warning: Tachycardia is happening here!
+2016-11-01 00:26:52,292 Debug: Convolved the ECG signal with the kernel
+2016-11-01 00:26:52,292 Debug: Divided the convolved signal with the kernel
+2016-11-01 00:26:52,292 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 00:26:52,293 debug: The ECG Threshold has just been found
+2016-11-01 00:26:52,293 Info: The instantaneous heart rate average is being calculated
+2016-11-01 00:26:52,297 Info: The one minute heart rate average is being calculated
+2016-11-01 00:26:52,297 Info: The five minute heart rate average is being calculated
+2016-11-01 00:26:52,297 Warning: Tachycardia is happening here!
+2016-11-01 00:27:03,319 Debug: Convolved the ECG signal with the kernel
+2016-11-01 00:27:03,319 Debug: Divided the convolved signal with the kernel
+2016-11-01 00:27:03,319 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 00:27:03,320 debug: The ECG Threshold has just been found
+2016-11-01 00:27:03,320 Info: The instantaneous heart rate average is being calculated
+2016-11-01 00:27:03,324 Info: The one minute heart rate average is being calculated
+2016-11-01 00:27:03,346 Info: The five minute heart rate average is being calculated
+2016-11-01 00:27:03,346 Warning: Tachycardia is happening here!
+2016-11-01 00:27:14,371 Debug: Convolved the ECG signal with the kernel
+2016-11-01 00:27:14,371 Debug: Divided the convolved signal with the kernel
+2016-11-01 00:27:14,371 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 00:27:14,372 debug: The ECG Threshold has just been found
+2016-11-01 00:27:14,372 Info: The instantaneous heart rate average is being calculated
+2016-11-01 00:27:14,379 Info: The one minute heart rate average is being calculated
+2016-11-01 00:27:14,398 Info: The five minute heart rate average is being calculated
+2016-11-01 00:27:14,398 Warning: Tachycardia is happening here!
+2016-11-01 00:27:25,421 Debug: Convolved the ECG signal with the kernel
+2016-11-01 00:27:25,421 Debug: Divided the convolved signal with the kernel
+2016-11-01 00:27:25,422 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 00:27:25,422 debug: The ECG Threshold has just been found
+2016-11-01 00:27:25,422 Info: The instantaneous heart rate average is being calculated
+2016-11-01 00:27:25,428 Info: The one minute heart rate average is being calculated
+2016-11-01 00:27:25,447 Info: The five minute heart rate average is being calculated
+2016-11-01 00:27:25,447 Warning: Tachycardia is happening here!
+2016-11-01 00:27:36,470 Debug: Convolved the ECG signal with the kernel
+2016-11-01 00:27:36,470 Debug: Divided the convolved signal with the kernel
+2016-11-01 00:27:36,470 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 00:27:36,471 debug: The ECG Threshold has just been found
+2016-11-01 00:27:36,471 Info: The instantaneous heart rate average is being calculated
+2016-11-01 00:27:36,476 Info: The one minute heart rate average is being calculated
+2016-11-01 00:27:36,495 Info: The five minute heart rate average is being calculated
+2016-11-01 00:27:36,495 Warning: Tachycardia is happening here!
+2016-11-01 00:27:47,513 Debug: Convolved the ECG signal with the kernel
+2016-11-01 00:27:47,513 Debug: Divided the convolved signal with the kernel
+2016-11-01 00:27:47,513 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 00:27:47,513 debug: The ECG Threshold has just been found
+2016-11-01 00:27:47,514 Info: The instantaneous heart rate average is being calculated
+2016-11-01 00:27:47,519 Info: The one minute heart rate average is being calculated
+2016-11-01 00:27:47,538 Info: The five minute heart rate average is being calculated
+2016-11-01 00:27:47,538 Warning: Tachycardia is happening here!
+2016-11-01 00:27:58,558 Debug: Convolved the ECG signal with the kernel
+2016-11-01 00:27:58,558 Debug: Divided the convolved signal with the kernel
+2016-11-01 00:27:58,558 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 00:27:58,559 debug: The ECG Threshold has just been found
+2016-11-01 00:27:58,559 Info: The instantaneous heart rate average is being calculated
+2016-11-01 00:27:58,564 Info: The one minute heart rate average is being calculated
+2016-11-01 00:27:58,582 Info: The five minute heart rate average is being calculated
+2016-11-01 00:27:58,582 Warning: Tachycardia is happening here!
+2016-11-01 00:28:09,605 Debug: Convolved the ECG signal with the kernel
+2016-11-01 00:28:09,605 Debug: Divided the convolved signal with the kernel
+2016-11-01 00:28:09,605 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 00:28:09,605 debug: The ECG Threshold has just been found
+2016-11-01 00:28:09,606 Info: The instantaneous heart rate average is being calculated
+2016-11-01 00:28:09,611 Info: The one minute heart rate average is being calculated
+2016-11-01 00:28:09,631 Info: The five minute heart rate average is being calculated
+2016-11-01 00:28:09,631 Warning: Tachycardia is happening here!
+2016-11-01 00:28:20,983 Info:The Heart Rate Trace is being plotted now
+2016-11-01 01:33:29,567 Debug: Just constructed the ECG Time array!!
+2016-11-01 01:33:29,572 Debug: Convolved the ECG signal with the kernel
+2016-11-01 01:33:29,573 Debug: Divided the convolved signal with the kernel
+2016-11-01 01:33:29,573 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 01:33:29,574 debug: The ECG Threshold has just been found
+2016-11-01 01:33:29,574 Info: The instantaneous heart rate average is being calculated
+2016-11-01 01:33:29,578 Info: The one minute heart rate average is being calculated
+2016-11-01 01:33:29,578 Info: The five minute heart rate average is being calculated
+2016-11-01 01:33:29,578 Warning: Tachycardia is happening here!
+2016-11-01 01:33:40,598 Debug: Convolved the ECG signal with the kernel
+2016-11-01 01:33:40,598 Debug: Divided the convolved signal with the kernel
+2016-11-01 01:33:40,598 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 01:33:40,599 debug: The ECG Threshold has just been found
+2016-11-01 01:33:40,599 Info: The instantaneous heart rate average is being calculated
+2016-11-01 01:33:40,603 Info: The one minute heart rate average is being calculated
+2016-11-01 01:33:40,603 Info: The five minute heart rate average is being calculated
+2016-11-01 01:33:40,603 Warning: Tachycardia is happening here!
+2016-11-01 01:33:51,621 Debug: Convolved the ECG signal with the kernel
+2016-11-01 01:33:51,622 Debug: Divided the convolved signal with the kernel
+2016-11-01 01:33:51,622 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 01:33:51,623 debug: The ECG Threshold has just been found
+2016-11-01 01:33:51,623 Info: The instantaneous heart rate average is being calculated
+2016-11-01 01:33:51,627 Info: The one minute heart rate average is being calculated
+2016-11-01 01:33:51,627 Info: The five minute heart rate average is being calculated
+2016-11-01 01:33:51,627 Warning: Tachycardia is happening here!
+2016-11-01 01:34:02,652 Debug: Convolved the ECG signal with the kernel
+2016-11-01 01:34:02,653 Debug: Divided the convolved signal with the kernel
+2016-11-01 01:34:02,653 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 01:34:02,653 debug: The ECG Threshold has just been found
+2016-11-01 01:34:02,653 Info: The instantaneous heart rate average is being calculated
+2016-11-01 01:34:02,657 Info: The one minute heart rate average is being calculated
+2016-11-01 01:34:02,658 Info: The five minute heart rate average is being calculated
+2016-11-01 01:34:02,658 Warning: Tachycardia is happening here!
+2016-11-01 01:53:10,866 Debug: Just constructed the ECG Time array!!
+2016-11-01 01:53:10,870 Debug: Convolved the ECG signal with the kernel
+2016-11-01 01:53:10,870 Debug: Divided the convolved signal with the kernel
+2016-11-01 01:53:10,871 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 01:53:10,872 debug: The ECG Threshold has just been found
+2016-11-01 01:53:10,872 Info: The instantaneous heart rate average is being calculated
+2016-11-01 01:53:10,881 Info: The one minute heart rate average is being calculated
+2016-11-01 01:53:10,881 Info: The five minute heart rate average is being calculated
+2016-11-01 01:53:10,882 Warning: Tachycardia is happening here!
+2016-11-01 01:53:21,901 Debug: Convolved the ECG signal with the kernel
+2016-11-01 01:53:21,901 Debug: Divided the convolved signal with the kernel
+2016-11-01 01:53:21,901 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 01:53:21,902 debug: The ECG Threshold has just been found
+2016-11-01 01:53:21,902 Info: The instantaneous heart rate average is being calculated
+2016-11-01 01:53:21,906 Info: The one minute heart rate average is being calculated
+2016-11-01 01:53:21,906 Info: The five minute heart rate average is being calculated
+2016-11-01 01:53:21,906 Warning: Tachycardia is happening here!
+2016-11-01 01:53:32,929 Debug: Convolved the ECG signal with the kernel
+2016-11-01 01:53:32,929 Debug: Divided the convolved signal with the kernel
+2016-11-01 01:53:32,930 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 01:53:32,930 debug: The ECG Threshold has just been found
+2016-11-01 01:53:32,930 Info: The instantaneous heart rate average is being calculated
+2016-11-01 01:53:32,934 Info: The one minute heart rate average is being calculated
+2016-11-01 01:53:32,934 Info: The five minute heart rate average is being calculated
+2016-11-01 01:53:32,934 Warning: Tachycardia is happening here!
+2016-11-01 01:53:43,960 Debug: Convolved the ECG signal with the kernel
+2016-11-01 01:53:43,961 Debug: Divided the convolved signal with the kernel
+2016-11-01 01:53:43,961 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 01:53:43,961 debug: The ECG Threshold has just been found
+2016-11-01 01:53:43,961 Info: The instantaneous heart rate average is being calculated
+2016-11-01 01:53:43,965 Info: The one minute heart rate average is being calculated
+2016-11-01 01:53:43,965 Info: The five minute heart rate average is being calculated
+2016-11-01 01:53:43,965 Warning: Tachycardia is happening here!
+2016-11-01 01:53:54,990 Debug: Convolved the ECG signal with the kernel
+2016-11-01 01:53:54,992 Debug: Divided the convolved signal with the kernel
+2016-11-01 01:53:54,992 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 01:53:54,992 debug: The ECG Threshold has just been found
+2016-11-01 01:53:54,992 Info: The instantaneous heart rate average is being calculated
+2016-11-01 01:53:54,996 Info: The one minute heart rate average is being calculated
+2016-11-01 01:53:54,997 Info: The five minute heart rate average is being calculated
+2016-11-01 01:53:54,997 Warning: Tachycardia is happening here!
+2016-11-01 01:54:06,018 Debug: Convolved the ECG signal with the kernel
+2016-11-01 01:54:06,018 Debug: Divided the convolved signal with the kernel
+2016-11-01 01:54:06,018 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 01:54:06,018 debug: The ECG Threshold has just been found
+2016-11-01 01:54:06,019 Info: The instantaneous heart rate average is being calculated
+2016-11-01 01:54:06,023 Info: The one minute heart rate average is being calculated
+2016-11-01 01:54:06,042 Info: The five minute heart rate average is being calculated
+2016-11-01 01:54:06,042 Warning: Tachycardia is happening here!
+2016-11-01 01:54:17,064 Debug: Convolved the ECG signal with the kernel
+2016-11-01 01:54:17,066 Debug: Divided the convolved signal with the kernel
+2016-11-01 01:54:17,066 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 01:54:17,066 debug: The ECG Threshold has just been found
+2016-11-01 01:54:17,067 Info: The instantaneous heart rate average is being calculated
+2016-11-01 01:54:17,097 Info: The one minute heart rate average is being calculated
+2016-11-01 01:54:17,133 Info: The five minute heart rate average is being calculated
+2016-11-01 01:54:17,133 Warning: Tachycardia is happening here!
+2016-11-01 01:54:28,162 Debug: Convolved the ECG signal with the kernel
+2016-11-01 01:54:28,163 Debug: Divided the convolved signal with the kernel
+2016-11-01 01:54:28,164 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 01:54:28,165 debug: The ECG Threshold has just been found
+2016-11-01 01:54:28,165 Info: The instantaneous heart rate average is being calculated
+2016-11-01 01:54:28,174 Info: The one minute heart rate average is being calculated
+2016-11-01 01:54:28,195 Info: The five minute heart rate average is being calculated
+2016-11-01 01:54:28,195 Warning: Tachycardia is happening here!
+2016-11-01 01:54:39,222 Debug: Convolved the ECG signal with the kernel
+2016-11-01 01:54:39,222 Debug: Divided the convolved signal with the kernel
+2016-11-01 01:54:39,222 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 01:54:39,223 debug: The ECG Threshold has just been found
+2016-11-01 01:54:39,223 Info: The instantaneous heart rate average is being calculated
+2016-11-01 01:54:39,228 Info: The one minute heart rate average is being calculated
+2016-11-01 01:54:39,249 Info: The five minute heart rate average is being calculated
+2016-11-01 01:54:39,249 Warning: Tachycardia is happening here!
+2016-11-01 01:54:50,276 Debug: Convolved the ECG signal with the kernel
+2016-11-01 01:54:50,277 Debug: Divided the convolved signal with the kernel
+2016-11-01 01:54:50,277 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 01:54:50,278 debug: The ECG Threshold has just been found
+2016-11-01 01:54:50,278 Info: The instantaneous heart rate average is being calculated
+2016-11-01 01:54:50,288 Info: The one minute heart rate average is being calculated
+2016-11-01 01:54:50,308 Info: The five minute heart rate average is being calculated
+2016-11-01 01:54:50,308 Warning: Tachycardia is happening here!
+2016-11-01 01:55:01,329 Debug: Convolved the ECG signal with the kernel
+2016-11-01 01:55:01,330 Debug: Divided the convolved signal with the kernel
+2016-11-01 01:55:01,331 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 01:55:01,331 debug: The ECG Threshold has just been found
+2016-11-01 01:55:01,331 Info: The instantaneous heart rate average is being calculated
+2016-11-01 01:55:01,337 Info: The one minute heart rate average is being calculated
+2016-11-01 01:55:01,356 Info: The five minute heart rate average is being calculated
+2016-11-01 01:55:01,356 Warning: Tachycardia is happening here!
+2016-11-01 01:55:12,378 Debug: Convolved the ECG signal with the kernel
+2016-11-01 01:55:12,378 Debug: Divided the convolved signal with the kernel
+2016-11-01 01:55:12,378 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 01:55:12,379 debug: The ECG Threshold has just been found
+2016-11-01 01:55:12,379 Info: The instantaneous heart rate average is being calculated
+2016-11-01 01:55:12,385 Info: The one minute heart rate average is being calculated
+2016-11-01 01:55:12,405 Info: The five minute heart rate average is being calculated
+2016-11-01 01:55:12,405 Warning: Tachycardia is happening here!
+2016-11-01 01:55:23,770 Info:The Heart Rate Trace is being plotted now
+2016-11-01 02:17:26,089 Debug: Just constructed the ECG Time array!!
+2016-11-01 02:17:26,091 Debug: Convolved the ECG signal with the kernel
+2016-11-01 02:17:26,091 Debug: Divided the convolved signal with the kernel
+2016-11-01 02:17:26,091 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 02:17:26,091 debug: The ECG Threshold has just been found
+2016-11-01 02:17:26,091 Info: The instantaneous heart rate average is being calculated
+2016-11-01 02:17:26,095 Info: The one minute heart rate average is being calculated
+2016-11-01 02:17:26,095 Info: The five minute heart rate average is being calculated
+2016-11-01 02:17:26,095 Warning: Tachycardia is happening here!
+2016-11-01 02:17:37,106 Debug: Convolved the ECG signal with the kernel
+2016-11-01 02:17:37,106 Debug: Divided the convolved signal with the kernel
+2016-11-01 02:17:37,106 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 02:17:37,107 debug: The ECG Threshold has just been found
+2016-11-01 02:17:37,107 Info: The instantaneous heart rate average is being calculated
+2016-11-01 02:17:37,111 Info: The one minute heart rate average is being calculated
+2016-11-01 02:17:37,111 Info: The five minute heart rate average is being calculated
+2016-11-01 02:17:37,111 Warning: Tachycardia is happening here!
+2016-11-01 02:17:48,127 Debug: Convolved the ECG signal with the kernel
+2016-11-01 02:17:48,127 Debug: Divided the convolved signal with the kernel
+2016-11-01 02:17:48,127 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 02:17:48,128 debug: The ECG Threshold has just been found
+2016-11-01 02:17:48,128 Info: The instantaneous heart rate average is being calculated
+2016-11-01 02:17:48,132 Info: The one minute heart rate average is being calculated
+2016-11-01 02:17:48,132 Info: The five minute heart rate average is being calculated
+2016-11-01 02:17:48,132 Warning: Tachycardia is happening here!
+2016-11-01 02:18:26,370 Debug: Just constructed the ECG Time array!!
+2016-11-01 02:18:26,372 Debug: Convolved the ECG signal with the kernel
+2016-11-01 02:18:26,372 Debug: Divided the convolved signal with the kernel
+2016-11-01 02:18:26,372 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 02:18:26,373 debug: The ECG Threshold has just been found
+2016-11-01 02:18:26,373 Info: The instantaneous heart rate average is being calculated
+2016-11-01 02:18:26,376 Info: The one minute heart rate average is being calculated
+2016-11-01 02:18:26,376 Info: The five minute heart rate average is being calculated
+2016-11-01 02:18:26,376 Warning: Tachycardia is happening here!
+2016-11-01 04:56:51,175 Debug: Just constructed the ECG Time array!!
+2016-11-01 04:56:51,177 Debug: Convolved the ECG signal with the kernel
+2016-11-01 04:56:51,177 Debug: Divided the convolved signal with the kernel
+2016-11-01 04:56:51,177 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 04:56:51,178 debug: The ECG Threshold has just been found
+2016-11-01 04:56:51,178 Info: The instantaneous heart rate average is being calculated
+2016-11-01 04:56:51,182 Info: The one minute heart rate average is being calculated
+2016-11-01 04:56:51,182 Info: The five minute heart rate average is being calculated
+2016-11-01 04:56:51,182 Warning: Tachycardia is happening here!
+2016-11-01 04:57:02,204 Debug: Convolved the ECG signal with the kernel
+2016-11-01 04:57:02,204 Debug: Divided the convolved signal with the kernel
+2016-11-01 04:57:02,205 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 04:57:02,205 debug: The ECG Threshold has just been found
+2016-11-01 04:57:02,205 Info: The instantaneous heart rate average is being calculated
+2016-11-01 04:57:02,209 Info: The one minute heart rate average is being calculated
+2016-11-01 04:57:02,209 Info: The five minute heart rate average is being calculated
+2016-11-01 04:57:02,209 Warning: Tachycardia is happening here!
+2016-11-01 04:57:13,230 Debug: Convolved the ECG signal with the kernel
+2016-11-01 04:57:13,231 Debug: Divided the convolved signal with the kernel
+2016-11-01 04:57:13,231 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 04:57:13,231 debug: The ECG Threshold has just been found
+2016-11-01 04:57:13,231 Info: The instantaneous heart rate average is being calculated
+2016-11-01 04:57:13,235 Info: The one minute heart rate average is being calculated
+2016-11-01 04:57:13,235 Info: The five minute heart rate average is being calculated
+2016-11-01 04:57:13,235 Warning: Tachycardia is happening here!
+2016-11-01 04:57:24,255 Debug: Convolved the ECG signal with the kernel
+2016-11-01 04:57:24,255 Debug: Divided the convolved signal with the kernel
+2016-11-01 04:57:24,255 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 04:57:24,255 debug: The ECG Threshold has just been found
+2016-11-01 04:57:24,255 Info: The instantaneous heart rate average is being calculated
+2016-11-01 04:57:24,259 Info: The one minute heart rate average is being calculated
+2016-11-01 04:57:24,259 Info: The five minute heart rate average is being calculated
+2016-11-01 04:57:24,259 Warning: Tachycardia is happening here!
+2016-11-01 04:57:35,278 Debug: Convolved the ECG signal with the kernel
+2016-11-01 04:57:35,279 Debug: Divided the convolved signal with the kernel
+2016-11-01 04:57:35,279 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 04:57:35,280 debug: The ECG Threshold has just been found
+2016-11-01 04:57:35,280 Info: The instantaneous heart rate average is being calculated
+2016-11-01 04:57:35,284 Info: The one minute heart rate average is being calculated
+2016-11-01 04:57:35,284 Info: The five minute heart rate average is being calculated
+2016-11-01 04:57:35,284 Warning: Tachycardia is happening here!
+2016-11-01 04:57:46,311 Debug: Convolved the ECG signal with the kernel
+2016-11-01 04:57:46,311 Debug: Divided the convolved signal with the kernel
+2016-11-01 04:57:46,311 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 04:57:46,311 debug: The ECG Threshold has just been found
+2016-11-01 04:57:46,312 Info: The instantaneous heart rate average is being calculated
+2016-11-01 04:57:46,316 Info: The one minute heart rate average is being calculated
+2016-11-01 04:57:46,334 Info: The five minute heart rate average is being calculated
+2016-11-01 04:57:46,334 Warning: Tachycardia is happening here!
+2016-11-01 04:57:57,355 Debug: Convolved the ECG signal with the kernel
+2016-11-01 04:57:57,355 Debug: Divided the convolved signal with the kernel
+2016-11-01 04:57:57,355 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 04:57:57,356 debug: The ECG Threshold has just been found
+2016-11-01 04:57:57,356 Info: The instantaneous heart rate average is being calculated
+2016-11-01 04:57:57,361 Info: The one minute heart rate average is being calculated
+2016-11-01 04:57:57,380 Info: The five minute heart rate average is being calculated
+2016-11-01 04:57:57,380 Warning: Tachycardia is happening here!
+2016-11-01 04:58:08,396 Debug: Convolved the ECG signal with the kernel
+2016-11-01 04:58:08,396 Debug: Divided the convolved signal with the kernel
+2016-11-01 04:58:08,396 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 04:58:08,396 debug: The ECG Threshold has just been found
+2016-11-01 04:58:08,396 Info: The instantaneous heart rate average is being calculated
+2016-11-01 04:58:08,402 Info: The one minute heart rate average is being calculated
+2016-11-01 04:58:08,420 Info: The five minute heart rate average is being calculated
+2016-11-01 04:58:08,420 Warning: Tachycardia is happening here!
+2016-11-01 04:58:19,447 Debug: Convolved the ECG signal with the kernel
+2016-11-01 04:58:19,448 Debug: Divided the convolved signal with the kernel
+2016-11-01 04:58:19,449 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 04:58:19,449 debug: The ECG Threshold has just been found
+2016-11-01 04:58:19,449 Info: The instantaneous heart rate average is being calculated
+2016-11-01 04:58:19,454 Info: The one minute heart rate average is being calculated
+2016-11-01 04:58:19,473 Info: The five minute heart rate average is being calculated
+2016-11-01 04:58:19,473 Warning: Tachycardia is happening here!
+2016-11-01 04:58:30,491 Debug: Convolved the ECG signal with the kernel
+2016-11-01 04:58:30,492 Debug: Divided the convolved signal with the kernel
+2016-11-01 04:58:30,493 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 04:58:30,494 debug: The ECG Threshold has just been found
+2016-11-01 04:58:30,494 Info: The instantaneous heart rate average is being calculated
+2016-11-01 04:58:30,502 Info: The one minute heart rate average is being calculated
+2016-11-01 04:58:30,522 Info: The five minute heart rate average is being calculated
+2016-11-01 04:58:30,522 Warning: Tachycardia is happening here!
+2016-11-01 04:58:41,544 Debug: Convolved the ECG signal with the kernel
+2016-11-01 04:58:41,545 Debug: Divided the convolved signal with the kernel
+2016-11-01 04:58:41,546 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 04:58:41,546 debug: The ECG Threshold has just been found
+2016-11-01 04:58:41,546 Info: The instantaneous heart rate average is being calculated
+2016-11-01 04:58:41,551 Info: The one minute heart rate average is being calculated
+2016-11-01 04:58:41,571 Info: The five minute heart rate average is being calculated
+2016-11-01 04:58:41,571 Warning: Tachycardia is happening here!
+2016-11-01 04:58:52,592 Debug: Convolved the ECG signal with the kernel
+2016-11-01 04:58:52,593 Debug: Divided the convolved signal with the kernel
+2016-11-01 04:58:52,594 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 04:58:52,594 debug: The ECG Threshold has just been found
+2016-11-01 04:58:52,594 Info: The instantaneous heart rate average is being calculated
+2016-11-01 04:58:52,600 Info: The one minute heart rate average is being calculated
+2016-11-01 04:58:52,618 Info: The five minute heart rate average is being calculated
+2016-11-01 04:58:52,618 Warning: Tachycardia is happening here!
+2016-11-01 04:59:04,008 Info:The Heart Rate Trace is being plotted now
+2016-11-01 05:00:45,664 Debug: Just constructed the ECG Time array!!
+2016-11-01 05:00:45,667 Debug: Convolved the ECG signal with the kernel
+2016-11-01 05:00:45,668 Debug: Divided the convolved signal with the kernel
+2016-11-01 05:00:45,668 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 05:00:45,670 debug: The ECG Threshold has just been found
+2016-11-01 05:00:45,670 Info: The instantaneous heart rate average is being calculated
+2016-11-01 05:00:45,674 Info: The one minute heart rate average is being calculated
+2016-11-01 05:00:45,674 Info: The five minute heart rate average is being calculated
+2016-11-01 05:00:45,675 Warning: Tachycardia is happening here!
+2016-11-01 05:00:56,697 Debug: Convolved the ECG signal with the kernel
+2016-11-01 05:00:56,699 Debug: Divided the convolved signal with the kernel
+2016-11-01 05:00:56,699 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 05:00:56,699 debug: The ECG Threshold has just been found
+2016-11-01 05:00:56,699 Info: The instantaneous heart rate average is being calculated
+2016-11-01 05:00:56,703 Info: The one minute heart rate average is being calculated
+2016-11-01 05:00:56,703 Info: The five minute heart rate average is being calculated
+2016-11-01 05:00:56,703 Warning: Tachycardia is happening here!
+2016-11-01 05:01:07,723 Debug: Convolved the ECG signal with the kernel
+2016-11-01 05:01:07,723 Debug: Divided the convolved signal with the kernel
+2016-11-01 05:01:07,723 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 05:01:07,724 debug: The ECG Threshold has just been found
+2016-11-01 05:01:07,724 Info: The instantaneous heart rate average is being calculated
+2016-11-01 05:01:07,728 Info: The one minute heart rate average is being calculated
+2016-11-01 05:01:07,728 Info: The five minute heart rate average is being calculated
+2016-11-01 05:01:07,728 Warning: Tachycardia is happening here!
+2016-11-01 05:01:18,751 Debug: Convolved the ECG signal with the kernel
+2016-11-01 05:01:18,751 Debug: Divided the convolved signal with the kernel
+2016-11-01 05:01:18,751 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 05:01:18,751 debug: The ECG Threshold has just been found
+2016-11-01 05:01:18,752 Info: The instantaneous heart rate average is being calculated
+2016-11-01 05:01:18,756 Info: The one minute heart rate average is being calculated
+2016-11-01 05:01:18,756 Info: The five minute heart rate average is being calculated
+2016-11-01 05:01:18,756 Warning: Tachycardia is happening here!
+2016-11-01 05:01:29,779 Debug: Convolved the ECG signal with the kernel
+2016-11-01 05:01:29,779 Debug: Divided the convolved signal with the kernel
+2016-11-01 05:01:29,779 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 05:01:29,779 debug: The ECG Threshold has just been found
+2016-11-01 05:01:29,779 Info: The instantaneous heart rate average is being calculated
+2016-11-01 05:01:29,784 Info: The one minute heart rate average is being calculated
+2016-11-01 05:01:29,784 Info: The five minute heart rate average is being calculated
+2016-11-01 05:01:29,784 Warning: Tachycardia is happening here!
+2016-11-01 05:01:40,804 Debug: Convolved the ECG signal with the kernel
+2016-11-01 05:01:40,804 Debug: Divided the convolved signal with the kernel
+2016-11-01 05:01:40,804 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 05:01:40,805 debug: The ECG Threshold has just been found
+2016-11-01 05:01:40,805 Info: The instantaneous heart rate average is being calculated
+2016-11-01 05:01:40,809 Info: The one minute heart rate average is being calculated
+2016-11-01 05:01:40,828 Info: The five minute heart rate average is being calculated
+2016-11-01 05:01:40,828 Warning: Tachycardia is happening here!
+2016-11-01 05:01:51,849 Debug: Convolved the ECG signal with the kernel
+2016-11-01 05:01:51,849 Debug: Divided the convolved signal with the kernel
+2016-11-01 05:01:51,849 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 05:01:51,850 debug: The ECG Threshold has just been found
+2016-11-01 05:01:51,850 Info: The instantaneous heart rate average is being calculated
+2016-11-01 05:01:51,855 Info: The one minute heart rate average is being calculated
+2016-11-01 05:01:51,874 Info: The five minute heart rate average is being calculated
+2016-11-01 05:01:51,874 Warning: Tachycardia is happening here!
+2016-11-01 05:02:02,897 Debug: Convolved the ECG signal with the kernel
+2016-11-01 05:02:02,897 Debug: Divided the convolved signal with the kernel
+2016-11-01 05:02:02,897 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 05:02:02,898 debug: The ECG Threshold has just been found
+2016-11-01 05:02:02,898 Info: The instantaneous heart rate average is being calculated
+2016-11-01 05:02:02,903 Info: The one minute heart rate average is being calculated
+2016-11-01 05:02:02,922 Info: The five minute heart rate average is being calculated
+2016-11-01 05:02:02,922 Warning: Tachycardia is happening here!
+2016-11-01 05:02:13,941 Debug: Convolved the ECG signal with the kernel
+2016-11-01 05:02:13,941 Debug: Divided the convolved signal with the kernel
+2016-11-01 05:02:13,942 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 05:02:13,942 debug: The ECG Threshold has just been found
+2016-11-01 05:02:13,942 Info: The instantaneous heart rate average is being calculated
+2016-11-01 05:02:13,948 Info: The one minute heart rate average is being calculated
+2016-11-01 05:02:13,967 Info: The five minute heart rate average is being calculated
+2016-11-01 05:02:13,996 Warning: Tachycardia is happening here!
+2016-11-01 05:02:25,020 Debug: Convolved the ECG signal with the kernel
+2016-11-01 05:02:25,021 Debug: Divided the convolved signal with the kernel
+2016-11-01 05:02:25,021 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 05:02:25,022 debug: The ECG Threshold has just been found
+2016-11-01 05:02:25,022 Info: The instantaneous heart rate average is being calculated
+2016-11-01 05:02:25,028 Info: The one minute heart rate average is being calculated
+2016-11-01 05:02:25,048 Info: The five minute heart rate average is being calculated
+2016-11-01 05:02:25,076 Warning: Tachycardia is happening here!
+2016-11-01 05:02:36,099 Debug: Convolved the ECG signal with the kernel
+2016-11-01 05:02:36,099 Debug: Divided the convolved signal with the kernel
+2016-11-01 05:02:36,099 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 05:02:36,100 debug: The ECG Threshold has just been found
+2016-11-01 05:02:36,100 Info: The instantaneous heart rate average is being calculated
+2016-11-01 05:02:36,106 Info: The one minute heart rate average is being calculated
+2016-11-01 05:02:36,124 Info: The five minute heart rate average is being calculated
+2016-11-01 05:02:36,152 Warning: Tachycardia is happening here!
+2016-11-01 05:02:47,172 Debug: Convolved the ECG signal with the kernel
+2016-11-01 05:02:47,172 Debug: Divided the convolved signal with the kernel
+2016-11-01 05:02:47,172 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 05:02:47,172 debug: The ECG Threshold has just been found
+2016-11-01 05:02:47,172 Info: The instantaneous heart rate average is being calculated
+2016-11-01 05:02:47,179 Info: The one minute heart rate average is being calculated
+2016-11-01 05:02:47,199 Info: The five minute heart rate average is being calculated
+2016-11-01 05:02:47,227 Warning: Tachycardia is happening here!
+2016-11-01 05:02:58,563 Info:The Heart Rate Trace is being plotted now
+2016-11-01 05:47:11,273 Debug: Just constructed the ECG Time array!!
+2016-11-01 05:47:11,276 Debug: Convolved the ECG signal with the kernel
+2016-11-01 05:47:11,276 Debug: Divided the convolved signal with the kernel
+2016-11-01 05:47:11,276 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 05:47:11,276 debug: The ECG Threshold has just been found
+2016-11-01 05:47:11,276 Info: The instantaneous heart rate average is being calculated
+2016-11-01 05:47:11,280 Info: The one minute heart rate average is being calculated
+2016-11-01 05:47:11,280 Info: The five minute heart rate average is being calculated
+2016-11-01 05:47:11,280 Warning: Tachycardia is happening here!
+2016-11-01 05:47:22,298 Debug: Convolved the ECG signal with the kernel
+2016-11-01 05:47:22,298 Debug: Divided the convolved signal with the kernel
+2016-11-01 05:47:22,298 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 05:47:22,299 debug: The ECG Threshold has just been found
+2016-11-01 05:47:22,299 Info: The instantaneous heart rate average is being calculated
+2016-11-01 05:47:22,303 Info: The one minute heart rate average is being calculated
+2016-11-01 05:47:22,303 Info: The five minute heart rate average is being calculated
+2016-11-01 05:47:22,303 Warning: Tachycardia is happening here!
+2016-11-01 05:47:33,320 Debug: Convolved the ECG signal with the kernel
+2016-11-01 05:47:33,321 Debug: Divided the convolved signal with the kernel
+2016-11-01 05:47:33,321 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 05:47:33,322 debug: The ECG Threshold has just been found
+2016-11-01 05:47:33,322 Info: The instantaneous heart rate average is being calculated
+2016-11-01 05:47:33,326 Info: The one minute heart rate average is being calculated
+2016-11-01 05:47:33,326 Info: The five minute heart rate average is being calculated
+2016-11-01 05:47:33,326 Warning: Tachycardia is happening here!
+2016-11-01 05:47:44,347 Debug: Convolved the ECG signal with the kernel
+2016-11-01 05:47:44,347 Debug: Divided the convolved signal with the kernel
+2016-11-01 05:47:44,347 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 05:47:44,348 debug: The ECG Threshold has just been found
+2016-11-01 05:47:44,348 Info: The instantaneous heart rate average is being calculated
+2016-11-01 05:47:44,354 Info: The one minute heart rate average is being calculated
+2016-11-01 05:47:44,354 Info: The five minute heart rate average is being calculated
+2016-11-01 05:47:44,354 Warning: Tachycardia is happening here!
+2016-11-01 05:47:55,374 Debug: Convolved the ECG signal with the kernel
+2016-11-01 05:47:55,374 Debug: Divided the convolved signal with the kernel
+2016-11-01 05:47:55,374 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 05:47:55,374 debug: The ECG Threshold has just been found
+2016-11-01 05:47:55,374 Info: The instantaneous heart rate average is being calculated
+2016-11-01 05:47:55,378 Info: The one minute heart rate average is being calculated
+2016-11-01 05:47:55,378 Info: The five minute heart rate average is being calculated
+2016-11-01 05:47:55,379 Warning: Tachycardia is happening here!
+2016-11-01 05:48:06,400 Debug: Convolved the ECG signal with the kernel
+2016-11-01 05:48:06,400 Debug: Divided the convolved signal with the kernel
+2016-11-01 05:48:06,400 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 05:48:06,400 debug: The ECG Threshold has just been found
+2016-11-01 05:48:06,401 Info: The instantaneous heart rate average is being calculated
+2016-11-01 05:48:06,405 Info: The one minute heart rate average is being calculated
+2016-11-01 05:48:06,424 Info: The five minute heart rate average is being calculated
+2016-11-01 05:48:06,424 Warning: Tachycardia is happening here!
+2016-11-01 05:48:17,446 Debug: Convolved the ECG signal with the kernel
+2016-11-01 05:48:17,446 Debug: Divided the convolved signal with the kernel
+2016-11-01 05:48:17,446 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 05:48:17,447 debug: The ECG Threshold has just been found
+2016-11-01 05:48:17,447 Info: The instantaneous heart rate average is being calculated
+2016-11-01 05:48:17,452 Info: The one minute heart rate average is being calculated
+2016-11-01 05:48:17,472 Info: The five minute heart rate average is being calculated
+2016-11-01 05:48:17,472 Warning: Tachycardia is happening here!
+2016-11-01 05:48:28,490 Debug: Convolved the ECG signal with the kernel
+2016-11-01 05:48:28,490 Debug: Divided the convolved signal with the kernel
+2016-11-01 05:48:28,490 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 05:48:28,491 debug: The ECG Threshold has just been found
+2016-11-01 05:48:28,491 Info: The instantaneous heart rate average is being calculated
+2016-11-01 05:48:28,496 Info: The one minute heart rate average is being calculated
+2016-11-01 05:48:28,515 Info: The five minute heart rate average is being calculated
+2016-11-01 05:48:28,515 Warning: Tachycardia is happening here!
+2016-11-01 05:48:39,537 Debug: Convolved the ECG signal with the kernel
+2016-11-01 05:48:39,537 Debug: Divided the convolved signal with the kernel
+2016-11-01 05:48:39,537 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 05:48:39,537 debug: The ECG Threshold has just been found
+2016-11-01 05:48:39,538 Info: The instantaneous heart rate average is being calculated
+2016-11-01 05:48:39,543 Info: The one minute heart rate average is being calculated
+2016-11-01 05:48:39,562 Info: The five minute heart rate average is being calculated
+2016-11-01 05:48:39,562 Warning: Tachycardia is happening here!
+2016-11-01 05:48:50,582 Debug: Convolved the ECG signal with the kernel
+2016-11-01 05:48:50,582 Debug: Divided the convolved signal with the kernel
+2016-11-01 05:48:50,582 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 05:48:50,583 debug: The ECG Threshold has just been found
+2016-11-01 05:48:50,583 Info: The instantaneous heart rate average is being calculated
+2016-11-01 05:48:50,588 Info: The one minute heart rate average is being calculated
+2016-11-01 05:48:50,608 Info: The five minute heart rate average is being calculated
+2016-11-01 05:48:50,609 Warning: Tachycardia is happening here!
+2016-11-01 05:49:01,633 Debug: Convolved the ECG signal with the kernel
+2016-11-01 05:49:01,633 Debug: Divided the convolved signal with the kernel
+2016-11-01 05:49:01,633 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 05:49:01,634 debug: The ECG Threshold has just been found
+2016-11-01 05:49:01,634 Info: The instantaneous heart rate average is being calculated
+2016-11-01 05:49:01,639 Info: The one minute heart rate average is being calculated
+2016-11-01 05:49:01,657 Info: The five minute heart rate average is being calculated
+2016-11-01 05:49:01,657 Warning: Tachycardia is happening here!
+2016-11-01 05:49:12,680 Debug: Convolved the ECG signal with the kernel
+2016-11-01 05:49:12,680 Debug: Divided the convolved signal with the kernel
+2016-11-01 05:49:12,680 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 05:49:12,681 debug: The ECG Threshold has just been found
+2016-11-01 05:49:12,681 Info: The instantaneous heart rate average is being calculated
+2016-11-01 05:49:12,688 Info: The one minute heart rate average is being calculated
+2016-11-01 05:49:12,707 Info: The five minute heart rate average is being calculated
+2016-11-01 05:49:12,707 Warning: Tachycardia is happening here!
+2016-11-01 05:49:24,084 Info:The Heart Rate Trace is being plotted now
+2016-11-01 05:49:30,588 Debug: Just constructed the ECG Time array!!
+2016-11-01 05:49:30,589 Debug: Convolved the ECG signal with the kernel
+2016-11-01 05:49:30,589 Debug: Divided the convolved signal with the kernel
+2016-11-01 05:49:30,589 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 05:49:30,590 debug: The ECG Threshold has just been found
+2016-11-01 05:49:30,590 Info: The instantaneous heart rate average is being calculated
+2016-11-01 05:49:30,591 Info: The one minute heart rate average is being calculated
+2016-11-01 05:49:30,591 Info: The five minute heart rate average is being calculated
+2016-11-01 05:49:30,591 Warning: Bradycardia is happening here!
+2016-11-01 05:49:41,612 Debug: Convolved the ECG signal with the kernel
+2016-11-01 05:49:41,612 Debug: Divided the convolved signal with the kernel
+2016-11-01 05:49:41,612 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 05:49:41,612 debug: The ECG Threshold has just been found
+2016-11-01 05:49:41,612 Info: The instantaneous heart rate average is being calculated
+2016-11-01 05:49:41,613 Info: The one minute heart rate average is being calculated
+2016-11-01 05:49:41,614 Info: The five minute heart rate average is being calculated
+2016-11-01 05:49:41,614 Warning: Bradycardia is happening here!
+2016-11-01 05:49:52,637 Debug: Convolved the ECG signal with the kernel
+2016-11-01 05:49:52,637 Debug: Divided the convolved signal with the kernel
+2016-11-01 05:49:52,637 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 05:49:52,637 debug: The ECG Threshold has just been found
+2016-11-01 05:49:52,637 Info: The instantaneous heart rate average is being calculated
+2016-11-01 05:49:52,638 Info: The one minute heart rate average is being calculated
+2016-11-01 05:49:52,639 Info: The five minute heart rate average is being calculated
+2016-11-01 05:49:52,639 Warning: Bradycardia is happening here!
+2016-11-01 05:50:03,664 Debug: Convolved the ECG signal with the kernel
+2016-11-01 05:50:03,664 Debug: Divided the convolved signal with the kernel
+2016-11-01 05:50:03,664 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 05:50:03,665 debug: The ECG Threshold has just been found
+2016-11-01 05:50:03,665 Info: The instantaneous heart rate average is being calculated
+2016-11-01 05:50:03,666 Info: The one minute heart rate average is being calculated
+2016-11-01 05:50:03,666 Info: The five minute heart rate average is being calculated
+2016-11-01 05:50:03,666 Warning: Bradycardia is happening here!
+2016-11-01 05:50:14,683 Debug: Convolved the ECG signal with the kernel
+2016-11-01 05:50:14,683 Debug: Divided the convolved signal with the kernel
+2016-11-01 05:50:14,683 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 05:50:14,683 debug: The ECG Threshold has just been found
+2016-11-01 05:50:14,683 Info: The instantaneous heart rate average is being calculated
+2016-11-01 05:50:14,685 Info: The one minute heart rate average is being calculated
+2016-11-01 05:50:14,685 Info: The five minute heart rate average is being calculated
+2016-11-01 05:50:14,685 Warning: Bradycardia is happening here!
+2016-11-01 05:50:33,332 Debug: Just constructed the ECG Time array!!
+2016-11-01 05:50:33,333 Debug: Convolved the ECG signal with the kernel
+2016-11-01 05:50:33,333 Debug: Divided the convolved signal with the kernel
+2016-11-01 05:50:33,333 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 05:50:33,333 debug: The ECG Threshold has just been found
+2016-11-01 05:50:33,333 Info: The instantaneous heart rate average is being calculated
+2016-11-01 05:50:33,334 Info: The one minute heart rate average is being calculated
+2016-11-01 05:50:33,334 Info: The five minute heart rate average is being calculated
+2016-11-01 05:50:33,335 Warning: Bradycardia is happening here!
+2016-11-01 05:50:44,358 Debug: Convolved the ECG signal with the kernel
+2016-11-01 05:50:44,358 Debug: Divided the convolved signal with the kernel
+2016-11-01 05:50:44,358 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 05:50:44,358 debug: The ECG Threshold has just been found
+2016-11-01 05:50:44,359 Info: The instantaneous heart rate average is being calculated
+2016-11-01 05:50:44,360 Info: The one minute heart rate average is being calculated
+2016-11-01 05:50:44,360 Info: The five minute heart rate average is being calculated
+2016-11-01 05:50:44,360 Warning: Bradycardia is happening here!
+2016-11-01 05:50:55,381 Debug: Convolved the ECG signal with the kernel
+2016-11-01 05:50:55,381 Debug: Divided the convolved signal with the kernel
+2016-11-01 05:50:55,381 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 05:50:55,381 debug: The ECG Threshold has just been found
+2016-11-01 05:50:55,381 Info: The instantaneous heart rate average is being calculated
+2016-11-01 05:50:55,382 Info: The one minute heart rate average is being calculated
+2016-11-01 05:50:55,382 Info: The five minute heart rate average is being calculated
+2016-11-01 05:50:55,383 Warning: Bradycardia is happening here!
+2016-11-01 05:51:06,407 Debug: Convolved the ECG signal with the kernel
+2016-11-01 05:51:06,408 Debug: Divided the convolved signal with the kernel
+2016-11-01 05:51:06,408 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 05:51:06,408 debug: The ECG Threshold has just been found
+2016-11-01 05:51:06,408 Info: The instantaneous heart rate average is being calculated
+2016-11-01 05:51:06,409 Info: The one minute heart rate average is being calculated
+2016-11-01 05:51:06,409 Info: The five minute heart rate average is being calculated
+2016-11-01 05:51:06,409 Warning: Bradycardia is happening here!
+2016-11-01 05:51:17,434 Debug: Convolved the ECG signal with the kernel
+2016-11-01 05:51:17,434 Debug: Divided the convolved signal with the kernel
+2016-11-01 05:51:17,434 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 05:51:17,435 debug: The ECG Threshold has just been found
+2016-11-01 05:51:17,435 Info: The instantaneous heart rate average is being calculated
+2016-11-01 05:51:17,439 Info: The one minute heart rate average is being calculated
+2016-11-01 05:51:17,439 Info: The five minute heart rate average is being calculated
+2016-11-01 05:51:17,440 Warning: Bradycardia is happening here!
+2016-11-01 05:51:28,462 Debug: Convolved the ECG signal with the kernel
+2016-11-01 05:51:28,462 Debug: Divided the convolved signal with the kernel
+2016-11-01 05:51:28,462 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 05:51:28,463 debug: The ECG Threshold has just been found
+2016-11-01 05:51:28,463 Info: The instantaneous heart rate average is being calculated
+2016-11-01 05:51:28,466 Info: The one minute heart rate average is being calculated
+2016-11-01 05:51:28,470 Info: The five minute heart rate average is being calculated
+2016-11-01 05:51:28,470 Warning: Bradycardia is happening here!
+2016-11-01 05:54:37,894 Debug: Just constructed the ECG Time array!!
+2016-11-01 05:54:37,895 Debug: Convolved the ECG signal with the kernel
+2016-11-01 05:54:37,896 Debug: Divided the convolved signal with the kernel
+2016-11-01 05:54:37,896 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 05:54:37,896 debug: The ECG Threshold has just been found
+2016-11-01 05:54:37,896 Info: The instantaneous heart rate average is being calculated
+2016-11-01 05:54:37,897 Info: The one minute heart rate average is being calculated
+2016-11-01 05:54:37,897 Info: The five minute heart rate average is being calculated
+2016-11-01 05:54:37,897 Warning: Bradycardia is happening here!
+2016-11-01 05:54:48,915 Debug: Convolved the ECG signal with the kernel
+2016-11-01 05:54:48,915 Debug: Divided the convolved signal with the kernel
+2016-11-01 05:54:48,916 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 05:54:48,916 debug: The ECG Threshold has just been found
+2016-11-01 05:54:48,916 Info: The instantaneous heart rate average is being calculated
+2016-11-01 05:54:48,917 Info: The one minute heart rate average is being calculated
+2016-11-01 05:54:48,917 Info: The five minute heart rate average is being calculated
+2016-11-01 05:54:48,917 Warning: Bradycardia is happening here!
+2016-11-01 05:54:59,937 Debug: Convolved the ECG signal with the kernel
+2016-11-01 05:54:59,937 Debug: Divided the convolved signal with the kernel
+2016-11-01 05:54:59,937 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 05:54:59,937 debug: The ECG Threshold has just been found
+2016-11-01 05:54:59,937 Info: The instantaneous heart rate average is being calculated
+2016-11-01 05:54:59,939 Info: The one minute heart rate average is being calculated
+2016-11-01 05:54:59,939 Info: The five minute heart rate average is being calculated
+2016-11-01 05:54:59,939 Warning: Bradycardia is happening here!
+2016-11-01 05:55:10,959 Debug: Convolved the ECG signal with the kernel
+2016-11-01 05:55:10,960 Debug: Divided the convolved signal with the kernel
+2016-11-01 05:55:10,960 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 05:55:10,960 debug: The ECG Threshold has just been found
+2016-11-01 05:55:10,960 Info: The instantaneous heart rate average is being calculated
+2016-11-01 05:55:10,961 Info: The one minute heart rate average is being calculated
+2016-11-01 05:55:10,961 Info: The five minute heart rate average is being calculated
+2016-11-01 05:55:10,961 Warning: Bradycardia is happening here!
+2016-11-01 05:55:21,984 Debug: Convolved the ECG signal with the kernel
+2016-11-01 05:55:21,984 Debug: Divided the convolved signal with the kernel
+2016-11-01 05:55:21,984 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 05:55:21,984 debug: The ECG Threshold has just been found
+2016-11-01 05:55:21,984 Info: The instantaneous heart rate average is being calculated
+2016-11-01 05:55:21,986 Info: The one minute heart rate average is being calculated
+2016-11-01 05:55:21,986 Info: The five minute heart rate average is being calculated
+2016-11-01 05:55:21,986 Warning: Bradycardia is happening here!
+2016-11-01 05:55:33,008 Debug: Convolved the ECG signal with the kernel
+2016-11-01 05:55:33,008 Debug: Divided the convolved signal with the kernel
+2016-11-01 05:55:33,009 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 05:55:33,009 debug: The ECG Threshold has just been found
+2016-11-01 05:55:33,009 Info: The instantaneous heart rate average is being calculated
+2016-11-01 05:55:33,011 Info: The one minute heart rate average is being calculated
+2016-11-01 05:55:33,016 Info: The five minute heart rate average is being calculated
+2016-11-01 05:55:33,017 Warning: Bradycardia is happening here!
+2016-11-01 05:55:44,034 Debug: Convolved the ECG signal with the kernel
+2016-11-01 05:55:44,036 Debug: Divided the convolved signal with the kernel
+2016-11-01 05:55:44,036 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 05:55:44,036 debug: The ECG Threshold has just been found
+2016-11-01 05:55:44,036 Info: The instantaneous heart rate average is being calculated
+2016-11-01 05:55:44,038 Info: The one minute heart rate average is being calculated
+2016-11-01 05:55:44,043 Info: The five minute heart rate average is being calculated
+2016-11-01 05:55:44,043 Warning: Bradycardia is happening here!
+2016-11-01 05:55:55,068 Debug: Convolved the ECG signal with the kernel
+2016-11-01 05:55:55,068 Debug: Divided the convolved signal with the kernel
+2016-11-01 05:55:55,068 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 05:55:55,068 debug: The ECG Threshold has just been found
+2016-11-01 05:55:55,068 Info: The instantaneous heart rate average is being calculated
+2016-11-01 05:55:55,070 Info: The one minute heart rate average is being calculated
+2016-11-01 05:55:55,075 Info: The five minute heart rate average is being calculated
+2016-11-01 05:55:55,075 Warning: Bradycardia is happening here!
+2016-11-01 05:56:06,099 Debug: Convolved the ECG signal with the kernel
+2016-11-01 05:56:06,101 Debug: Divided the convolved signal with the kernel
+2016-11-01 05:56:06,101 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 05:56:06,101 debug: The ECG Threshold has just been found
+2016-11-01 05:56:06,101 Info: The instantaneous heart rate average is being calculated
+2016-11-01 05:56:06,102 Info: The one minute heart rate average is being calculated
+2016-11-01 05:56:06,108 Info: The five minute heart rate average is being calculated
+2016-11-01 05:56:06,108 Warning: Bradycardia is happening here!
+2016-11-01 05:56:17,131 Debug: Convolved the ECG signal with the kernel
+2016-11-01 05:56:17,131 Debug: Divided the convolved signal with the kernel
+2016-11-01 05:56:17,131 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 05:56:17,131 debug: The ECG Threshold has just been found
+2016-11-01 05:56:17,131 Info: The instantaneous heart rate average is being calculated
+2016-11-01 05:56:17,132 Info: The one minute heart rate average is being calculated
+2016-11-01 05:56:17,139 Info: The five minute heart rate average is being calculated
+2016-11-01 05:56:17,139 Warning: Bradycardia is happening here!
+2016-11-01 05:56:28,165 Debug: Convolved the ECG signal with the kernel
+2016-11-01 05:56:28,166 Debug: Divided the convolved signal with the kernel
+2016-11-01 05:56:28,167 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 05:56:28,167 debug: The ECG Threshold has just been found
+2016-11-01 05:56:28,167 Info: The instantaneous heart rate average is being calculated
+2016-11-01 05:56:28,169 Info: The one minute heart rate average is being calculated
+2016-11-01 05:56:28,175 Info: The five minute heart rate average is being calculated
+2016-11-01 05:56:28,175 Warning: Bradycardia is happening here!
+2016-11-01 05:56:39,203 Debug: Convolved the ECG signal with the kernel
+2016-11-01 05:56:39,204 Debug: Divided the convolved signal with the kernel
+2016-11-01 05:56:39,204 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 05:56:39,204 debug: The ECG Threshold has just been found
+2016-11-01 05:56:39,205 Info: The instantaneous heart rate average is being calculated
+2016-11-01 05:56:39,206 Info: The one minute heart rate average is being calculated
+2016-11-01 05:56:39,211 Info: The five minute heart rate average is being calculated
+2016-11-01 05:56:39,211 Warning: Bradycardia is happening here!
+2016-11-01 05:56:50,232 Debug: Convolved the ECG signal with the kernel
+2016-11-01 05:56:50,233 Debug: Divided the convolved signal with the kernel
+2016-11-01 05:56:50,233 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 05:56:50,233 debug: The ECG Threshold has just been found
+2016-11-01 05:56:50,233 Info: The instantaneous heart rate average is being calculated
+2016-11-01 05:56:50,234 Info: The one minute heart rate average is being calculated
+2016-11-01 05:56:50,239 Info: The five minute heart rate average is being calculated
+2016-11-01 05:56:50,239 Warning: Tachycardia is happening here!
+2016-11-01 05:57:01,584 Info:The Heart Rate Trace is being plotted now
+2016-11-01 05:57:44,155 Debug: Just constructed the ECG Time array!!
+2016-11-01 05:57:44,158 Debug: Convolved the ECG signal with the kernel
+2016-11-01 05:57:44,158 Debug: Divided the convolved signal with the kernel
+2016-11-01 05:57:44,158 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 05:57:44,159 debug: The ECG Threshold has just been found
+2016-11-01 05:57:44,159 Info: The instantaneous heart rate average is being calculated
+2016-11-01 05:57:44,163 Info: The one minute heart rate average is being calculated
+2016-11-01 05:57:44,163 Info: The five minute heart rate average is being calculated
+2016-11-01 05:57:44,163 Warning: Tachycardia is happening here!
+2016-11-01 05:57:56,400 Debug: Just constructed the ECG Time array!!
+2016-11-01 05:57:56,401 Debug: Convolved the ECG signal with the kernel
+2016-11-01 05:57:56,401 Debug: Divided the convolved signal with the kernel
+2016-11-01 05:57:56,401 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 05:57:56,402 debug: The ECG Threshold has just been found
+2016-11-01 05:57:56,402 Info: The instantaneous heart rate average is being calculated
+2016-11-01 05:57:56,406 Info: The one minute heart rate average is being calculated
+2016-11-01 05:57:56,406 Info: The five minute heart rate average is being calculated
+2016-11-01 05:57:56,406 Warning: Tachycardia is happening here!
+2016-11-01 05:58:07,429 Debug: Convolved the ECG signal with the kernel
+2016-11-01 05:58:07,429 Debug: Divided the convolved signal with the kernel
+2016-11-01 05:58:07,429 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 05:58:07,430 debug: The ECG Threshold has just been found
+2016-11-01 05:58:07,432 Info: The instantaneous heart rate average is being calculated
+2016-11-01 05:58:07,436 Info: The one minute heart rate average is being calculated
+2016-11-01 05:58:07,436 Info: The five minute heart rate average is being calculated
+2016-11-01 05:58:07,436 Warning: Tachycardia is happening here!
+2016-11-01 05:58:18,459 Debug: Convolved the ECG signal with the kernel
+2016-11-01 05:58:18,459 Debug: Divided the convolved signal with the kernel
+2016-11-01 05:58:18,459 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 05:58:18,459 debug: The ECG Threshold has just been found
+2016-11-01 05:58:18,459 Info: The instantaneous heart rate average is being calculated
+2016-11-01 05:58:18,463 Info: The one minute heart rate average is being calculated
+2016-11-01 05:58:18,463 Info: The five minute heart rate average is being calculated
+2016-11-01 05:58:18,464 Warning: Tachycardia is happening here!
+2016-11-01 05:59:38,885 Debug: Just constructed the ECG Time array!!
+2016-11-01 05:59:38,886 Debug: Convolved the ECG signal with the kernel
+2016-11-01 05:59:38,886 Debug: Divided the convolved signal with the kernel
+2016-11-01 05:59:38,887 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 05:59:38,887 debug: The ECG Threshold has just been found
+2016-11-01 05:59:38,887 Info: The instantaneous heart rate average is being calculated
+2016-11-01 05:59:38,891 Info: The one minute heart rate average is being calculated
+2016-11-01 05:59:38,891 Info: The five minute heart rate average is being calculated
+2016-11-01 05:59:38,891 Warning: Tachycardia is happening here!
+2016-11-01 05:59:49,912 Debug: Convolved the ECG signal with the kernel
+2016-11-01 05:59:49,912 Debug: Divided the convolved signal with the kernel
+2016-11-01 05:59:49,912 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 05:59:49,912 debug: The ECG Threshold has just been found
+2016-11-01 05:59:49,912 Info: The instantaneous heart rate average is being calculated
+2016-11-01 05:59:49,916 Info: The one minute heart rate average is being calculated
+2016-11-01 05:59:49,916 Info: The five minute heart rate average is being calculated
+2016-11-01 05:59:49,917 Warning: Tachycardia is happening here!
+2016-11-01 06:00:11,740 Debug: Just constructed the ECG Time array!!
+2016-11-01 06:00:11,742 Debug: Convolved the ECG signal with the kernel
+2016-11-01 06:00:11,742 Debug: Divided the convolved signal with the kernel
+2016-11-01 06:00:11,742 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 06:00:11,742 debug: The ECG Threshold has just been found
+2016-11-01 06:00:11,742 Info: The instantaneous heart rate average is being calculated
+2016-11-01 06:00:11,746 Info: The one minute heart rate average is being calculated
+2016-11-01 06:00:11,746 Info: The five minute heart rate average is being calculated
+2016-11-01 06:00:11,746 Warning: Tachycardia is happening here!
+2016-11-01 06:00:22,766 Debug: Convolved the ECG signal with the kernel
+2016-11-01 06:00:22,767 Debug: Divided the convolved signal with the kernel
+2016-11-01 06:00:22,767 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 06:00:22,767 debug: The ECG Threshold has just been found
+2016-11-01 06:00:22,767 Info: The instantaneous heart rate average is being calculated
+2016-11-01 06:00:22,774 Info: The one minute heart rate average is being calculated
+2016-11-01 06:00:22,774 Info: The five minute heart rate average is being calculated
+2016-11-01 06:00:22,775 Warning: Tachycardia is happening here!
+2016-11-01 06:00:33,795 Debug: Convolved the ECG signal with the kernel
+2016-11-01 06:00:33,796 Debug: Divided the convolved signal with the kernel
+2016-11-01 06:00:33,796 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 06:00:33,797 debug: The ECG Threshold has just been found
+2016-11-01 06:00:33,797 Info: The instantaneous heart rate average is being calculated
+2016-11-01 06:00:33,802 Info: The one minute heart rate average is being calculated
+2016-11-01 06:00:33,802 Info: The five minute heart rate average is being calculated
+2016-11-01 06:00:33,802 Warning: Tachycardia is happening here!
+2016-11-01 06:00:44,823 Debug: Convolved the ECG signal with the kernel
+2016-11-01 06:00:44,823 Debug: Divided the convolved signal with the kernel
+2016-11-01 06:00:44,823 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 06:00:44,823 debug: The ECG Threshold has just been found
+2016-11-01 06:00:44,823 Info: The instantaneous heart rate average is being calculated
+2016-11-01 06:00:44,828 Info: The one minute heart rate average is being calculated
+2016-11-01 06:00:44,828 Info: The five minute heart rate average is being calculated
+2016-11-01 06:00:44,828 Warning: Tachycardia is happening here!
+2016-11-01 06:00:55,848 Debug: Convolved the ECG signal with the kernel
+2016-11-01 06:00:55,848 Debug: Divided the convolved signal with the kernel
+2016-11-01 06:00:55,848 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 06:00:55,849 debug: The ECG Threshold has just been found
+2016-11-01 06:00:55,849 Info: The instantaneous heart rate average is being calculated
+2016-11-01 06:00:55,853 Info: The one minute heart rate average is being calculated
+2016-11-01 06:00:55,853 Info: The five minute heart rate average is being calculated
+2016-11-01 06:00:55,853 Warning: Tachycardia is happening here!
+2016-11-01 06:01:06,876 Debug: Convolved the ECG signal with the kernel
+2016-11-01 06:01:06,877 Debug: Divided the convolved signal with the kernel
+2016-11-01 06:01:06,877 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 06:01:06,878 debug: The ECG Threshold has just been found
+2016-11-01 06:01:06,878 Info: The instantaneous heart rate average is being calculated
+2016-11-01 06:01:06,882 Info: The one minute heart rate average is being calculated
+2016-11-01 06:01:06,902 Info: The five minute heart rate average is being calculated
+2016-11-01 06:01:06,902 Warning: Tachycardia is happening here!
+2016-11-01 06:01:17,922 Debug: Convolved the ECG signal with the kernel
+2016-11-01 06:01:17,922 Debug: Divided the convolved signal with the kernel
+2016-11-01 06:01:17,922 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 06:01:17,923 debug: The ECG Threshold has just been found
+2016-11-01 06:01:17,923 Info: The instantaneous heart rate average is being calculated
+2016-11-01 06:01:17,928 Info: The one minute heart rate average is being calculated
+2016-11-01 06:01:17,948 Info: The five minute heart rate average is being calculated
+2016-11-01 06:01:17,948 Warning: Tachycardia is happening here!
+2016-11-01 06:01:28,971 Debug: Convolved the ECG signal with the kernel
+2016-11-01 06:01:28,972 Debug: Divided the convolved signal with the kernel
+2016-11-01 06:01:28,972 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 06:01:28,972 debug: The ECG Threshold has just been found
+2016-11-01 06:01:28,972 Info: The instantaneous heart rate average is being calculated
+2016-11-01 06:01:28,980 Info: The one minute heart rate average is being calculated
+2016-11-01 06:01:29,000 Info: The five minute heart rate average is being calculated
+2016-11-01 06:01:29,000 Warning: Tachycardia is happening here!
+2016-11-01 06:01:40,025 Debug: Convolved the ECG signal with the kernel
+2016-11-01 06:01:40,025 Debug: Divided the convolved signal with the kernel
+2016-11-01 06:01:40,025 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 06:01:40,026 debug: The ECG Threshold has just been found
+2016-11-01 06:01:40,026 Info: The instantaneous heart rate average is being calculated
+2016-11-01 06:01:40,033 Info: The one minute heart rate average is being calculated
+2016-11-01 06:01:40,054 Info: The five minute heart rate average is being calculated
+2016-11-01 06:01:40,054 Warning: Tachycardia is happening here!
+2016-11-01 06:01:51,079 Debug: Convolved the ECG signal with the kernel
+2016-11-01 06:01:51,079 Debug: Divided the convolved signal with the kernel
+2016-11-01 06:01:51,079 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 06:01:51,079 debug: The ECG Threshold has just been found
+2016-11-01 06:01:51,080 Info: The instantaneous heart rate average is being calculated
+2016-11-01 06:01:51,085 Info: The one minute heart rate average is being calculated
+2016-11-01 06:01:51,103 Info: The five minute heart rate average is being calculated
+2016-11-01 06:01:51,103 Warning: Tachycardia is happening here!
+2016-11-01 06:02:02,130 Debug: Convolved the ECG signal with the kernel
+2016-11-01 06:02:02,130 Debug: Divided the convolved signal with the kernel
+2016-11-01 06:02:02,130 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 06:02:02,131 debug: The ECG Threshold has just been found
+2016-11-01 06:02:02,131 Info: The instantaneous heart rate average is being calculated
+2016-11-01 06:02:02,136 Info: The one minute heart rate average is being calculated
+2016-11-01 06:02:02,155 Info: The five minute heart rate average is being calculated
+2016-11-01 06:02:02,155 Warning: Tachycardia is happening here!
+2016-11-01 06:02:13,178 Debug: Convolved the ECG signal with the kernel
+2016-11-01 06:02:13,178 Debug: Divided the convolved signal with the kernel
+2016-11-01 06:02:13,178 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 06:02:13,179 debug: The ECG Threshold has just been found
+2016-11-01 06:02:13,179 Info: The instantaneous heart rate average is being calculated
+2016-11-01 06:02:13,184 Info: The one minute heart rate average is being calculated
+2016-11-01 06:02:13,203 Info: The five minute heart rate average is being calculated
+2016-11-01 06:02:13,203 Warning: Tachycardia is happening here!
+2016-11-01 06:02:24,603 Info:The Heart Rate Trace is being plotted now
+2016-11-01 06:02:50,057 Debug: Just constructed the ECG Time array!!
+2016-11-01 06:02:50,058 Debug: Convolved the ECG signal with the kernel
+2016-11-01 06:02:50,058 Debug: Divided the convolved signal with the kernel
+2016-11-01 06:02:50,058 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 06:02:50,058 debug: The ECG Threshold has just been found
+2016-11-01 06:02:50,059 Info: The instantaneous heart rate average is being calculated
+2016-11-01 06:02:50,062 Info: The one minute heart rate average is being calculated
+2016-11-01 06:02:50,063 Info: The five minute heart rate average is being calculated
+2016-11-01 06:02:50,063 Warning: Tachycardia is happening here!
+2016-11-01 06:03:01,083 Debug: Convolved the ECG signal with the kernel
+2016-11-01 06:03:01,083 Debug: Divided the convolved signal with the kernel
+2016-11-01 06:03:01,083 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 06:03:01,084 debug: The ECG Threshold has just been found
+2016-11-01 06:03:01,084 Info: The instantaneous heart rate average is being calculated
+2016-11-01 06:03:01,088 Info: The one minute heart rate average is being calculated
+2016-11-01 06:03:01,088 Info: The five minute heart rate average is being calculated
+2016-11-01 06:03:01,088 Warning: Tachycardia is happening here!
+2016-11-01 06:03:12,110 Debug: Convolved the ECG signal with the kernel
+2016-11-01 06:03:12,111 Debug: Divided the convolved signal with the kernel
+2016-11-01 06:03:12,111 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 06:03:12,112 debug: The ECG Threshold has just been found
+2016-11-01 06:03:12,112 Info: The instantaneous heart rate average is being calculated
+2016-11-01 06:03:12,116 Info: The one minute heart rate average is being calculated
+2016-11-01 06:03:12,116 Info: The five minute heart rate average is being calculated
+2016-11-01 06:03:12,116 Warning: Tachycardia is happening here!
+2016-11-01 06:03:23,435 Info:The Heart Rate Trace is being plotted now
+2016-11-01 06:04:36,673 Debug: Just constructed the ECG Time array!!
+2016-11-01 06:04:36,676 Debug: Convolved the ECG signal with the kernel
+2016-11-01 06:04:36,676 Debug: Divided the convolved signal with the kernel
+2016-11-01 06:04:36,676 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 06:04:36,677 debug: The ECG Threshold has just been found
+2016-11-01 06:04:36,677 Info: The instantaneous heart rate average is being calculated
+2016-11-01 06:04:36,681 Info: The one minute heart rate average is being calculated
+2016-11-01 06:04:36,681 Info: The five minute heart rate average is being calculated
+2016-11-01 06:04:36,681 Warning: Tachycardia is happening here!
+2016-11-01 06:05:03,907 Debug: Just constructed the ECG Time array!!
+2016-11-01 06:05:03,909 Debug: Convolved the ECG signal with the kernel
+2016-11-01 06:05:03,910 Debug: Divided the convolved signal with the kernel
+2016-11-01 06:05:03,910 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 06:05:03,911 debug: The ECG Threshold has just been found
+2016-11-01 06:05:03,911 Info: The instantaneous heart rate average is being calculated
+2016-11-01 06:05:03,915 Info: The one minute heart rate average is being calculated
+2016-11-01 06:05:03,915 Info: The five minute heart rate average is being calculated
+2016-11-01 06:05:03,915 Warning: Tachycardia is happening here!
+2016-11-01 06:05:14,939 Debug: Convolved the ECG signal with the kernel
+2016-11-01 06:05:14,939 Debug: Divided the convolved signal with the kernel
+2016-11-01 06:05:14,940 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 06:05:14,941 debug: The ECG Threshold has just been found
+2016-11-01 06:05:14,941 Info: The instantaneous heart rate average is being calculated
+2016-11-01 06:05:14,944 Info: The one minute heart rate average is being calculated
+2016-11-01 06:05:14,944 Info: The five minute heart rate average is being calculated
+2016-11-01 06:05:14,945 Warning: Tachycardia is happening here!
+2016-11-01 06:05:38,034 Debug: Just constructed the ECG Time array!!
+2016-11-01 06:05:51,902 Debug: Just constructed the ECG Time array!!
+2016-11-01 06:05:51,904 Debug: Convolved the ECG signal with the kernel
+2016-11-01 06:05:51,904 Debug: Divided the convolved signal with the kernel
+2016-11-01 06:05:51,904 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 06:05:51,904 debug: The ECG Threshold has just been found
+2016-11-01 06:05:51,905 Info: The instantaneous heart rate average is being calculated
+2016-11-01 06:05:51,908 Info: The one minute heart rate average is being calculated
+2016-11-01 06:05:51,908 Info: The five minute heart rate average is being calculated
+2016-11-01 06:05:51,909 Warning: Tachycardia is happening here!
+2016-11-01 06:06:09,376 Debug: Just constructed the ECG Time array!!
+2016-11-01 06:06:09,378 Debug: Convolved the ECG signal with the kernel
+2016-11-01 06:06:09,378 Debug: Divided the convolved signal with the kernel
+2016-11-01 06:06:09,378 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 06:06:09,378 debug: The ECG Threshold has just been found
+2016-11-01 06:06:09,379 Info: The instantaneous heart rate average is being calculated
+2016-11-01 06:06:09,382 Info: The one minute heart rate average is being calculated
+2016-11-01 06:06:09,382 Info: The five minute heart rate average is being calculated
+2016-11-01 06:06:09,382 Warning: Tachycardia is happening here!
+2016-11-01 06:06:30,028 Debug: Just constructed the ECG Time array!!
+2016-11-01 06:06:30,030 Debug: Convolved the ECG signal with the kernel
+2016-11-01 06:06:30,030 Debug: Divided the convolved signal with the kernel
+2016-11-01 06:06:30,031 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 06:06:30,031 debug: The ECG Threshold has just been found
+2016-11-01 06:06:30,031 Info: The instantaneous heart rate average is being calculated
+2016-11-01 06:06:30,035 Info: The one minute heart rate average is being calculated
+2016-11-01 06:06:30,035 Info: The five minute heart rate average is being calculated
+2016-11-01 06:06:30,035 Warning: Tachycardia is happening here!
+2016-11-01 06:33:07,259 Debug: Just constructed the ECG Time array!!
+2016-11-01 06:33:07,261 Debug: Convolved the ECG signal with the kernel
+2016-11-01 06:33:07,261 Debug: Divided the convolved signal with the kernel
+2016-11-01 06:33:07,261 Debug: Just calculated and removed the DC offset from signal!
+2016-11-01 06:33:07,262 debug: The ECG Threshold has just been found
+2016-11-01 06:33:07,262 Info: The instantaneous heart rate average is being calculated
+2016-11-01 06:33:07,265 Info: The one minute heart rate average is being calculated
+2016-11-01 06:33:07,266 Info: The five minute heart rate average is being calculated
+2016-11-01 06:33:07,266 Warning: Tachycardia is happening here!
+2016-11-03 17:00:54,517 Debug: Just constructed the ECG Time array!!
+2016-11-03 17:00:54,526 Debug: Convolved the ECG signal with the kernel
+2016-11-03 17:00:54,527 Debug: Divided the convolved signal with the kernel
+2016-11-03 17:00:54,527 Debug: Just calculated and removed the DC offset from signal!
+2016-11-03 17:00:54,530 debug: The ECG Threshold has just been found
+2016-11-03 17:00:54,530 Info: The instantaneous heart rate average is being calculated
+2016-11-03 17:00:54,541 Info: The one minute heart rate average is being calculated
+2016-11-03 17:00:54,541 Info: The five minute heart rate average is being calculated
+2016-11-03 17:00:54,541 Warning: Tachycardia is happening here!
+2016-11-03 17:01:04,792 Debug: Just constructed the ECG Time array!!
+2016-11-03 17:01:04,795 Debug: Convolved the ECG signal with the kernel
+2016-11-03 17:01:04,796 Debug: Divided the convolved signal with the kernel
+2016-11-03 17:01:04,796 Debug: Just calculated and removed the DC offset from signal!
+2016-11-03 17:01:04,797 debug: The ECG Threshold has just been found
+2016-11-03 17:01:04,797 Info: The instantaneous heart rate average is being calculated
+2016-11-03 17:01:04,878 Info: The one minute heart rate average is being calculated
+2016-11-03 17:01:04,878 Info: The five minute heart rate average is being calculated
+2016-11-03 17:01:04,879 Warning: Tachycardia is happening here!
+2016-11-03 17:01:05,564 Debug: Convolved the ECG signal with the kernel
+2016-11-03 17:01:05,564 Debug: Divided the convolved signal with the kernel
+2016-11-03 17:01:05,565 Debug: Just calculated and removed the DC offset from signal!
+2016-11-03 17:01:05,566 debug: The ECG Threshold has just been found
+2016-11-03 17:01:05,566 Info: The instantaneous heart rate average is being calculated
+2016-11-03 17:01:05,573 Info: The one minute heart rate average is being calculated
+2016-11-03 17:01:05,573 Info: The five minute heart rate average is being calculated
+2016-11-03 17:01:05,573 Warning: Tachycardia is happening here!
+2016-11-03 17:01:15,900 Debug: Convolved the ECG signal with the kernel
+2016-11-03 17:01:15,900 Debug: Divided the convolved signal with the kernel
+2016-11-03 17:01:15,900 Debug: Just calculated and removed the DC offset from signal!
+2016-11-03 17:01:15,901 debug: The ECG Threshold has just been found
+2016-11-03 17:01:15,901 Info: The instantaneous heart rate average is being calculated
+2016-11-03 17:01:15,907 Info: The one minute heart rate average is being calculated
+2016-11-03 17:01:15,907 Info: The five minute heart rate average is being calculated
+2016-11-03 17:01:15,907 Warning: Tachycardia is happening here!
+2016-11-03 17:01:16,599 Debug: Convolved the ECG signal with the kernel
+2016-11-03 17:01:16,599 Debug: Divided the convolved signal with the kernel
+2016-11-03 17:01:16,600 Debug: Just calculated and removed the DC offset from signal!
+2016-11-03 17:01:16,600 debug: The ECG Threshold has just been found
+2016-11-03 17:01:16,601 Info: The instantaneous heart rate average is being calculated
+2016-11-03 17:01:16,607 Info: The one minute heart rate average is being calculated
+2016-11-03 17:01:16,607 Info: The five minute heart rate average is being calculated
+2016-11-03 17:01:16,608 Warning: Tachycardia is happening here!
+2016-11-03 17:01:27,633 Debug: Convolved the ECG signal with the kernel
+2016-11-03 17:01:27,633 Debug: Divided the convolved signal with the kernel
+2016-11-03 17:01:27,633 Debug: Just calculated and removed the DC offset from signal!
+2016-11-03 17:01:27,633 debug: The ECG Threshold has just been found
+2016-11-03 17:01:27,633 Info: The instantaneous heart rate average is being calculated
+2016-11-03 17:01:27,640 Info: The one minute heart rate average is being calculated
+2016-11-03 17:01:27,640 Info: The five minute heart rate average is being calculated
+2016-11-03 17:01:27,640 Warning: Tachycardia is happening here!
+2016-11-03 17:01:53,935 Debug: Just constructed the ECG Time array!!
+2016-11-03 17:01:53,937 Debug: Convolved the ECG signal with the kernel
+2016-11-03 17:01:53,937 Debug: Divided the convolved signal with the kernel
+2016-11-03 17:01:53,940 Debug: Just calculated and removed the DC offset from signal!
+2016-11-03 17:01:53,942 debug: The ECG Threshold has just been found
+2016-11-03 17:01:53,942 Info: The instantaneous heart rate average is being calculated
+2016-11-03 17:01:53,946 Info: The one minute heart rate average is being calculated
+2016-11-03 17:01:53,946 Info: The five minute heart rate average is being calculated
+2016-11-03 17:01:53,946 Warning: Tachycardia is happening here!
+2016-11-03 17:02:04,973 Debug: Convolved the ECG signal with the kernel
+2016-11-03 17:02:04,974 Debug: Divided the convolved signal with the kernel
+2016-11-03 17:02:04,974 Debug: Just calculated and removed the DC offset from signal!
+2016-11-03 17:02:04,975 debug: The ECG Threshold has just been found
+2016-11-03 17:02:04,975 Info: The instantaneous heart rate average is being calculated
+2016-11-03 17:02:04,979 Info: The one minute heart rate average is being calculated
+2016-11-03 17:02:04,980 Info: The five minute heart rate average is being calculated
+2016-11-03 17:02:04,980 Warning: Tachycardia is happening here!
+2016-11-03 17:02:16,003 Debug: Convolved the ECG signal with the kernel
+2016-11-03 17:02:16,004 Debug: Divided the convolved signal with the kernel
+2016-11-03 17:02:16,004 Debug: Just calculated and removed the DC offset from signal!
+2016-11-03 17:02:16,005 debug: The ECG Threshold has just been found
+2016-11-03 17:02:16,005 Info: The instantaneous heart rate average is being calculated
+2016-11-03 17:02:16,010 Info: The one minute heart rate average is being calculated
+2016-11-03 17:02:16,010 Info: The five minute heart rate average is being calculated
+2016-11-03 17:02:16,011 Warning: Tachycardia is happening here!
+2016-11-03 17:02:27,509 Info:The Heart Rate Trace is being plotted now
+2016-11-09 19:05:28,334 Debug: Just constructed the ECG Time array!!
+2016-11-09 19:05:28,340 Debug: Convolved the ECG signal with the kernel
+2016-11-09 19:05:28,340 Debug: Divided the convolved signal with the kernel
+2016-11-09 19:05:28,340 Debug: Just calculated and removed the DC offset from signal!
+2016-11-09 19:05:28,341 debug: The ECG Threshold has just been found
+2016-11-09 19:05:28,341 Info: The instantaneous heart rate average is being calculated
+2016-11-09 19:05:28,345 Info: The one minute heart rate average is being calculated
+2016-11-09 19:05:28,345 Info: The five minute heart rate average is being calculated
+2016-11-09 19:05:28,345 Warning: Tachycardia is happening here!
+2016-11-09 19:05:39,369 Debug: Convolved the ECG signal with the kernel
+2016-11-09 19:05:39,370 Debug: Divided the convolved signal with the kernel
+2016-11-09 19:05:39,370 Debug: Just calculated and removed the DC offset from signal!
+2016-11-09 19:05:39,371 debug: The ECG Threshold has just been found
+2016-11-09 19:05:39,371 Info: The instantaneous heart rate average is being calculated
+2016-11-09 19:05:39,381 Info: The one minute heart rate average is being calculated
+2016-11-09 19:05:39,382 Info: The five minute heart rate average is being calculated
+2016-11-09 19:05:39,383 Warning: Tachycardia is happening here!
+2016-11-09 19:05:50,408 Debug: Convolved the ECG signal with the kernel
+2016-11-09 19:05:50,409 Debug: Divided the convolved signal with the kernel
+2016-11-09 19:05:50,410 Debug: Just calculated and removed the DC offset from signal!
+2016-11-09 19:05:50,411 debug: The ECG Threshold has just been found
+2016-11-09 19:05:50,411 Info: The instantaneous heart rate average is being calculated
+2016-11-09 19:05:50,420 Info: The one minute heart rate average is being calculated
+2016-11-09 19:05:50,420 Info: The five minute heart rate average is being calculated
+2016-11-09 19:05:50,420 Warning: Tachycardia is happening here!
+2016-11-09 19:05:54,637 Debug: Just constructed the ECG Time array!!
+2016-11-09 19:05:54,640 Debug: Convolved the ECG signal with the kernel
+2016-11-09 19:05:54,640 Debug: Divided the convolved signal with the kernel
+2016-11-09 19:05:54,640 Debug: Just calculated and removed the DC offset from signal!
+2016-11-09 19:05:54,641 debug: The ECG Threshold has just been found
+2016-11-09 19:05:54,641 Info: The instantaneous heart rate average is being calculated
+2016-11-09 19:05:54,646 Info: The one minute heart rate average is being calculated
+2016-11-09 19:05:54,646 Info: The five minute heart rate average is being calculated
+2016-11-09 19:05:54,646 Warning: Tachycardia is happening here!
+2016-11-09 19:06:01,441 Debug: Convolved the ECG signal with the kernel
+2016-11-09 19:06:01,442 Debug: Divided the convolved signal with the kernel
+2016-11-09 19:06:01,442 Debug: Just calculated and removed the DC offset from signal!
+2016-11-09 19:06:01,442 debug: The ECG Threshold has just been found
+2016-11-09 19:06:01,442 Info: The instantaneous heart rate average is being calculated
+2016-11-09 19:06:01,447 Info: The one minute heart rate average is being calculated
+2016-11-09 19:06:01,448 Info: The five minute heart rate average is being calculated
+2016-11-09 19:06:01,448 Warning: Tachycardia is happening here!
+2016-11-09 19:06:05,666 Debug: Convolved the ECG signal with the kernel
+2016-11-09 19:06:05,666 Debug: Divided the convolved signal with the kernel
+2016-11-09 19:06:05,666 Debug: Just calculated and removed the DC offset from signal!
+2016-11-09 19:06:05,667 debug: The ECG Threshold has just been found
+2016-11-09 19:06:05,667 Info: The instantaneous heart rate average is being calculated
+2016-11-09 19:06:05,671 Info: The one minute heart rate average is being calculated
+2016-11-09 19:06:05,671 Info: The five minute heart rate average is being calculated
+2016-11-09 19:06:05,671 Warning: Tachycardia is happening here!
+2016-11-09 19:06:12,466 Debug: Convolved the ECG signal with the kernel
+2016-11-09 19:06:12,466 Debug: Divided the convolved signal with the kernel
+2016-11-09 19:06:12,467 Debug: Just calculated and removed the DC offset from signal!
+2016-11-09 19:06:12,467 debug: The ECG Threshold has just been found
+2016-11-09 19:06:12,467 Info: The instantaneous heart rate average is being calculated
+2016-11-09 19:06:12,472 Info: The one minute heart rate average is being calculated
+2016-11-09 19:06:12,472 Info: The five minute heart rate average is being calculated
+2016-11-09 19:06:12,472 Warning: Tachycardia is happening here!
+2016-11-09 19:06:16,695 Debug: Convolved the ECG signal with the kernel
+2016-11-09 19:06:16,695 Debug: Divided the convolved signal with the kernel
+2016-11-09 19:06:16,695 Debug: Just calculated and removed the DC offset from signal!
+2016-11-09 19:06:16,696 debug: The ECG Threshold has just been found
+2016-11-09 19:06:16,696 Info: The instantaneous heart rate average is being calculated
+2016-11-09 19:06:16,702 Info: The one minute heart rate average is being calculated
+2016-11-09 19:06:16,702 Info: The five minute heart rate average is being calculated
+2016-11-09 19:06:16,702 Warning: Tachycardia is happening here!
+2016-11-09 19:06:23,491 Debug: Convolved the ECG signal with the kernel
+2016-11-09 19:06:23,492 Debug: Divided the convolved signal with the kernel
+2016-11-09 19:06:23,492 Debug: Just calculated and removed the DC offset from signal!
+2016-11-09 19:06:23,493 debug: The ECG Threshold has just been found
+2016-11-09 19:06:23,493 Info: The instantaneous heart rate average is being calculated
+2016-11-09 19:06:23,497 Info: The one minute heart rate average is being calculated
+2016-11-09 19:06:23,516 Info: The five minute heart rate average is being calculated
+2016-11-09 19:06:23,516 Warning: Tachycardia is happening here!
+2016-11-09 19:06:27,718 Debug: Convolved the ECG signal with the kernel
+2016-11-09 19:06:27,718 Debug: Divided the convolved signal with the kernel
+2016-11-09 19:06:27,718 Debug: Just calculated and removed the DC offset from signal!
+2016-11-09 19:06:27,719 debug: The ECG Threshold has just been found
+2016-11-09 19:06:27,720 Info: The instantaneous heart rate average is being calculated
+2016-11-09 19:06:27,729 Info: The one minute heart rate average is being calculated
+2016-11-09 19:06:27,729 Info: The five minute heart rate average is being calculated
+2016-11-09 19:06:27,729 Warning: Tachycardia is happening here!
+2016-11-09 19:06:34,545 Debug: Convolved the ECG signal with the kernel
+2016-11-09 19:06:34,546 Debug: Divided the convolved signal with the kernel
+2016-11-09 19:06:34,547 Debug: Just calculated and removed the DC offset from signal!
+2016-11-09 19:06:34,548 debug: The ECG Threshold has just been found
+2016-11-09 19:06:34,548 Info: The instantaneous heart rate average is being calculated
+2016-11-09 19:06:34,565 Info: The one minute heart rate average is being calculated
+2016-11-09 19:06:34,606 Info: The five minute heart rate average is being calculated
+2016-11-09 19:06:34,607 Warning: Tachycardia is happening here!
+2016-11-09 19:06:38,751 Debug: Convolved the ECG signal with the kernel
+2016-11-09 19:06:38,751 Debug: Divided the convolved signal with the kernel
+2016-11-09 19:06:38,751 Debug: Just calculated and removed the DC offset from signal!
+2016-11-09 19:06:38,752 debug: The ECG Threshold has just been found
+2016-11-09 19:06:38,752 Info: The instantaneous heart rate average is being calculated
+2016-11-09 19:06:38,759 Info: The one minute heart rate average is being calculated
+2016-11-09 19:06:38,759 Info: The five minute heart rate average is being calculated
+2016-11-09 19:06:38,759 Warning: Tachycardia is happening here!
+2016-11-09 19:06:45,634 Debug: Convolved the ECG signal with the kernel
+2016-11-09 19:06:45,636 Debug: Divided the convolved signal with the kernel
+2016-11-09 19:06:45,636 Debug: Just calculated and removed the DC offset from signal!
+2016-11-09 19:06:45,637 debug: The ECG Threshold has just been found
+2016-11-09 19:06:45,637 Info: The instantaneous heart rate average is being calculated
+2016-11-09 19:06:45,651 Info: The one minute heart rate average is being calculated
+2016-11-09 19:06:45,684 Info: The five minute heart rate average is being calculated
+2016-11-09 19:06:45,685 Warning: Tachycardia is happening here!
+2016-11-09 19:06:48,066 Debug: Just constructed the ECG Time array!!
+2016-11-09 19:06:48,070 Debug: Convolved the ECG signal with the kernel
+2016-11-09 19:06:48,070 Debug: Divided the convolved signal with the kernel
+2016-11-09 19:06:48,070 Debug: Just calculated and removed the DC offset from signal!
+2016-11-09 19:06:48,071 debug: The ECG Threshold has just been found
+2016-11-09 19:06:48,071 Info: The instantaneous heart rate average is being calculated
+2016-11-09 19:06:48,075 Info: The one minute heart rate average is being calculated
+2016-11-09 19:06:48,075 Info: The five minute heart rate average is being calculated
+2016-11-09 19:06:48,075 Warning: Tachycardia is happening here!
+2016-11-09 19:06:49,782 Debug: Convolved the ECG signal with the kernel
+2016-11-09 19:06:49,782 Debug: Divided the convolved signal with the kernel
+2016-11-09 19:06:49,782 Debug: Just calculated and removed the DC offset from signal!
+2016-11-09 19:06:49,783 debug: The ECG Threshold has just been found
+2016-11-09 19:06:49,783 Info: The instantaneous heart rate average is being calculated
+2016-11-09 19:06:49,788 Info: The one minute heart rate average is being calculated
+2016-11-09 19:06:49,807 Info: The five minute heart rate average is being calculated
+2016-11-09 19:06:49,808 Warning: Tachycardia is happening here!
+2016-11-09 19:06:56,701 Debug: Convolved the ECG signal with the kernel
+2016-11-09 19:06:56,701 Debug: Divided the convolved signal with the kernel
+2016-11-09 19:06:56,701 Debug: Just calculated and removed the DC offset from signal!
+2016-11-09 19:06:56,701 debug: The ECG Threshold has just been found
+2016-11-09 19:06:56,702 Info: The instantaneous heart rate average is being calculated
+2016-11-09 19:06:56,707 Info: The one minute heart rate average is being calculated
+2016-11-09 19:06:56,727 Info: The five minute heart rate average is being calculated
+2016-11-09 19:06:56,727 Warning: Tachycardia is happening here!
+2016-11-09 19:06:59,098 Debug: Convolved the ECG signal with the kernel
+2016-11-09 19:06:59,098 Debug: Divided the convolved signal with the kernel
+2016-11-09 19:06:59,098 Debug: Just calculated and removed the DC offset from signal!
+2016-11-09 19:06:59,099 debug: The ECG Threshold has just been found
+2016-11-09 19:06:59,099 Info: The instantaneous heart rate average is being calculated
+2016-11-09 19:06:59,103 Info: The one minute heart rate average is being calculated
+2016-11-09 19:06:59,103 Info: The five minute heart rate average is being calculated
+2016-11-09 19:06:59,103 Warning: Tachycardia is happening here!
+2016-11-09 19:07:00,827 Debug: Convolved the ECG signal with the kernel
+2016-11-09 19:07:00,827 Debug: Divided the convolved signal with the kernel
+2016-11-09 19:07:00,827 Debug: Just calculated and removed the DC offset from signal!
+2016-11-09 19:07:00,827 debug: The ECG Threshold has just been found
+2016-11-09 19:07:00,827 Info: The instantaneous heart rate average is being calculated
+2016-11-09 19:07:00,834 Info: The one minute heart rate average is being calculated
+2016-11-09 19:07:00,854 Info: The five minute heart rate average is being calculated
+2016-11-09 19:07:00,854 Warning: Tachycardia is happening here!
+2016-11-09 19:07:07,746 Debug: Convolved the ECG signal with the kernel
+2016-11-09 19:07:07,747 Debug: Divided the convolved signal with the kernel
+2016-11-09 19:07:07,747 Debug: Just calculated and removed the DC offset from signal!
+2016-11-09 19:07:07,748 debug: The ECG Threshold has just been found
+2016-11-09 19:07:07,749 Info: The instantaneous heart rate average is being calculated
+2016-11-09 19:07:07,755 Info: The one minute heart rate average is being calculated
+2016-11-09 19:07:07,782 Info: The five minute heart rate average is being calculated
+2016-11-09 19:07:07,783 Warning: Tachycardia is happening here!
+2016-11-09 19:07:10,122 Debug: Convolved the ECG signal with the kernel
+2016-11-09 19:07:10,123 Debug: Divided the convolved signal with the kernel
+2016-11-09 19:07:10,123 Debug: Just calculated and removed the DC offset from signal!
+2016-11-09 19:07:10,123 debug: The ECG Threshold has just been found
+2016-11-09 19:07:10,123 Info: The instantaneous heart rate average is being calculated
+2016-11-09 19:07:10,128 Info: The one minute heart rate average is being calculated
+2016-11-09 19:07:10,128 Info: The five minute heart rate average is being calculated
+2016-11-09 19:07:10,128 Warning: Tachycardia is happening here!
+2016-11-09 19:07:11,874 Debug: Convolved the ECG signal with the kernel
+2016-11-09 19:07:11,875 Debug: Divided the convolved signal with the kernel
+2016-11-09 19:07:11,875 Debug: Just calculated and removed the DC offset from signal!
+2016-11-09 19:07:11,875 debug: The ECG Threshold has just been found
+2016-11-09 19:07:11,876 Info: The instantaneous heart rate average is being calculated
+2016-11-09 19:07:11,885 Info: The one minute heart rate average is being calculated
+2016-11-09 19:07:11,907 Info: The five minute heart rate average is being calculated
+2016-11-09 19:07:11,908 Warning: Tachycardia is happening here!
+2016-11-09 19:07:18,801 Debug: Convolved the ECG signal with the kernel
+2016-11-09 19:07:18,802 Debug: Divided the convolved signal with the kernel
+2016-11-09 19:07:18,802 Debug: Just calculated and removed the DC offset from signal!
+2016-11-09 19:07:18,803 debug: The ECG Threshold has just been found
+2016-11-09 19:07:18,803 Info: The instantaneous heart rate average is being calculated
+2016-11-09 19:07:18,809 Info: The one minute heart rate average is being calculated
+2016-11-09 19:07:18,828 Info: The five minute heart rate average is being calculated
+2016-11-09 19:07:18,828 Warning: Tachycardia is happening here!
+2016-11-09 19:07:21,142 Debug: Convolved the ECG signal with the kernel
+2016-11-09 19:07:21,142 Debug: Divided the convolved signal with the kernel
+2016-11-09 19:07:21,143 Debug: Just calculated and removed the DC offset from signal!
+2016-11-09 19:07:21,143 debug: The ECG Threshold has just been found
+2016-11-09 19:07:21,143 Info: The instantaneous heart rate average is being calculated
+2016-11-09 19:07:21,148 Info: The one minute heart rate average is being calculated
+2016-11-09 19:07:21,148 Info: The five minute heart rate average is being calculated
+2016-11-09 19:07:21,148 Warning: Tachycardia is happening here!
+2016-11-09 19:07:22,927 Debug: Convolved the ECG signal with the kernel
+2016-11-09 19:07:22,927 Debug: Divided the convolved signal with the kernel
+2016-11-09 19:07:22,927 Debug: Just calculated and removed the DC offset from signal!
+2016-11-09 19:07:22,928 debug: The ECG Threshold has just been found
+2016-11-09 19:07:22,928 Info: The instantaneous heart rate average is being calculated
+2016-11-09 19:07:22,934 Info: The one minute heart rate average is being calculated
+2016-11-09 19:07:22,956 Info: The five minute heart rate average is being calculated
+2016-11-09 19:07:22,957 Warning: Tachycardia is happening here!
+2016-11-09 19:07:29,847 Debug: Convolved the ECG signal with the kernel
+2016-11-09 19:07:29,848 Debug: Divided the convolved signal with the kernel
+2016-11-09 19:07:29,848 Debug: Just calculated and removed the DC offset from signal!
+2016-11-09 19:07:29,849 debug: The ECG Threshold has just been found
+2016-11-09 19:07:29,849 Info: The instantaneous heart rate average is being calculated
+2016-11-09 19:07:29,856 Info: The one minute heart rate average is being calculated
+2016-11-09 19:07:29,877 Info: The five minute heart rate average is being calculated
+2016-11-09 19:07:29,878 Warning: Tachycardia is happening here!
+2016-11-09 19:07:32,169 Debug: Convolved the ECG signal with the kernel
+2016-11-09 19:07:32,169 Debug: Divided the convolved signal with the kernel
+2016-11-09 19:07:32,169 Debug: Just calculated and removed the DC offset from signal!
+2016-11-09 19:07:32,170 debug: The ECG Threshold has just been found
+2016-11-09 19:07:32,170 Info: The instantaneous heart rate average is being calculated
+2016-11-09 19:07:32,174 Info: The one minute heart rate average is being calculated
+2016-11-09 19:07:32,174 Info: The five minute heart rate average is being calculated
+2016-11-09 19:07:32,175 Warning: Tachycardia is happening here!
+2016-11-09 19:07:33,982 Debug: Convolved the ECG signal with the kernel
+2016-11-09 19:07:33,982 Debug: Divided the convolved signal with the kernel
+2016-11-09 19:07:33,982 Debug: Just calculated and removed the DC offset from signal!
+2016-11-09 19:07:33,983 debug: The ECG Threshold has just been found
+2016-11-09 19:07:33,983 Info: The instantaneous heart rate average is being calculated
+2016-11-09 19:07:33,992 Info: The one minute heart rate average is being calculated
+2016-11-09 19:07:34,013 Info: The five minute heart rate average is being calculated
+2016-11-09 19:07:34,014 Warning: Tachycardia is happening here!
+2016-11-09 19:07:41,349 Info:The Heart Rate Trace is being plotted now
+2016-11-09 19:07:43,197 Debug: Convolved the ECG signal with the kernel
+2016-11-09 19:07:43,197 Debug: Divided the convolved signal with the kernel
+2016-11-09 19:07:43,197 Debug: Just calculated and removed the DC offset from signal!
+2016-11-09 19:07:43,198 debug: The ECG Threshold has just been found
+2016-11-09 19:07:43,198 Info: The instantaneous heart rate average is being calculated
+2016-11-09 19:07:43,203 Info: The one minute heart rate average is being calculated
+2016-11-09 19:07:43,228 Info: The five minute heart rate average is being calculated
+2016-11-09 19:07:43,229 Warning: Tachycardia is happening here!
+2016-11-09 19:07:45,032 Debug: Convolved the ECG signal with the kernel
+2016-11-09 19:07:45,032 Debug: Divided the convolved signal with the kernel
+2016-11-09 19:07:45,032 Debug: Just calculated and removed the DC offset from signal!
+2016-11-09 19:07:45,032 debug: The ECG Threshold has just been found
+2016-11-09 19:07:45,033 Info: The instantaneous heart rate average is being calculated
+2016-11-09 19:07:45,038 Info: The one minute heart rate average is being calculated
+2016-11-09 19:07:45,058 Info: The five minute heart rate average is being calculated
+2016-11-09 19:07:45,058 Warning: Tachycardia is happening here!
+2016-11-09 19:07:54,255 Debug: Convolved the ECG signal with the kernel
+2016-11-09 19:07:54,255 Debug: Divided the convolved signal with the kernel
+2016-11-09 19:07:54,256 Debug: Just calculated and removed the DC offset from signal!
+2016-11-09 19:07:54,256 debug: The ECG Threshold has just been found
+2016-11-09 19:07:54,256 Info: The instantaneous heart rate average is being calculated
+2016-11-09 19:07:54,263 Info: The one minute heart rate average is being calculated
+2016-11-09 19:07:54,282 Info: The five minute heart rate average is being calculated
+2016-11-09 19:07:54,282 Warning: Tachycardia is happening here!
+2016-11-09 19:07:56,082 Debug: Convolved the ECG signal with the kernel
+2016-11-09 19:07:56,082 Debug: Divided the convolved signal with the kernel
+2016-11-09 19:07:56,083 Debug: Just calculated and removed the DC offset from signal!
+2016-11-09 19:07:56,083 debug: The ECG Threshold has just been found
+2016-11-09 19:07:56,083 Info: The instantaneous heart rate average is being calculated
+2016-11-09 19:07:56,090 Info: The one minute heart rate average is being calculated
+2016-11-09 19:07:56,111 Info: The five minute heart rate average is being calculated
+2016-11-09 19:07:56,111 Warning: Tachycardia is happening here!
+2016-11-09 19:08:05,305 Debug: Convolved the ECG signal with the kernel
+2016-11-09 19:08:05,307 Debug: Divided the convolved signal with the kernel
+2016-11-09 19:08:05,308 Debug: Just calculated and removed the DC offset from signal!
+2016-11-09 19:08:05,309 debug: The ECG Threshold has just been found
+2016-11-09 19:08:05,309 Info: The instantaneous heart rate average is being calculated
+2016-11-09 19:08:05,317 Info: The one minute heart rate average is being calculated
+2016-11-09 19:08:05,337 Info: The five minute heart rate average is being calculated
+2016-11-09 19:08:05,338 Warning: Tachycardia is happening here!
+2016-11-09 19:08:07,624 Info:The Heart Rate Trace is being plotted now
+2016-11-09 19:08:16,360 Debug: Convolved the ECG signal with the kernel
+2016-11-09 19:08:16,361 Debug: Divided the convolved signal with the kernel
+2016-11-09 19:08:16,361 Debug: Just calculated and removed the DC offset from signal!
+2016-11-09 19:08:16,362 debug: The ECG Threshold has just been found
+2016-11-09 19:08:16,362 Info: The instantaneous heart rate average is being calculated
+2016-11-09 19:08:16,367 Info: The one minute heart rate average is being calculated
+2016-11-09 19:08:16,387 Info: The five minute heart rate average is being calculated
+2016-11-09 19:08:16,387 Warning: Tachycardia is happening here!
+2016-11-09 19:08:27,410 Debug: Convolved the ECG signal with the kernel
+2016-11-09 19:08:27,412 Debug: Divided the convolved signal with the kernel
+2016-11-09 19:08:27,412 Debug: Just calculated and removed the DC offset from signal!
+2016-11-09 19:08:27,413 debug: The ECG Threshold has just been found
+2016-11-09 19:08:27,413 Info: The instantaneous heart rate average is being calculated
+2016-11-09 19:08:27,420 Info: The one minute heart rate average is being calculated
+2016-11-09 19:08:27,441 Info: The five minute heart rate average is being calculated
+2016-11-09 19:08:27,441 Warning: Tachycardia is happening here!
+2016-11-09 19:08:38,465 Debug: Convolved the ECG signal with the kernel
+2016-11-09 19:08:38,467 Debug: Divided the convolved signal with the kernel
+2016-11-09 19:08:38,467 Debug: Just calculated and removed the DC offset from signal!
+2016-11-09 19:08:38,467 debug: The ECG Threshold has just been found
+2016-11-09 19:08:38,467 Info: The instantaneous heart rate average is being calculated
+2016-11-09 19:08:38,473 Info: The one minute heart rate average is being calculated
+2016-11-09 19:08:38,494 Info: The five minute heart rate average is being calculated
+2016-11-09 19:08:38,495 Warning: Tachycardia is happening here!
+2016-11-09 19:08:49,536 Debug: Convolved the ECG signal with the kernel
+2016-11-09 19:08:49,541 Debug: Divided the convolved signal with the kernel
+2016-11-09 19:08:49,542 Debug: Just calculated and removed the DC offset from signal!
+2016-11-09 19:08:49,544 debug: The ECG Threshold has just been found
+2016-11-09 19:08:49,544 Info: The instantaneous heart rate average is being calculated
+2016-11-09 19:08:49,559 Info: The one minute heart rate average is being calculated
+2016-11-09 19:08:49,579 Info: The five minute heart rate average is being calculated
+2016-11-09 19:08:49,579 Warning: Tachycardia is happening here!
+2016-11-09 19:09:00,999 Info:The Heart Rate Trace is being plotted now
+2016-11-09 20:07:02,558 Debug: Just constructed the ECG Time array!!
+2016-11-09 20:07:02,570 Debug: Convolved the ECG signal with the kernel
+2016-11-09 20:07:02,570 Debug: Divided the convolved signal with the kernel
+2016-11-09 20:07:02,571 Debug: Just calculated and removed the DC offset from signal!
+2016-11-09 20:07:02,574 debug: The ECG Threshold has just been found
+2016-11-09 20:07:02,575 Info: The instantaneous heart rate average is being calculated
+2016-11-09 20:07:02,584 Info: The one minute heart rate average is being calculated
+2016-11-09 20:07:02,585 Info: The five minute heart rate average is being calculated
+2016-11-09 20:07:02,585 Warning: Tachycardia is happening here!
+2016-11-09 20:07:13,607 Debug: Convolved the ECG signal with the kernel
+2016-11-09 20:07:13,607 Debug: Divided the convolved signal with the kernel
+2016-11-09 20:07:13,607 Debug: Just calculated and removed the DC offset from signal!
+2016-11-09 20:07:13,608 debug: The ECG Threshold has just been found
+2016-11-09 20:07:13,609 Info: The instantaneous heart rate average is being calculated
+2016-11-09 20:07:13,616 Info: The one minute heart rate average is being calculated
+2016-11-09 20:07:13,617 Info: The five minute heart rate average is being calculated
+2016-11-09 20:07:13,617 Warning: Tachycardia is happening here!
+2016-11-09 20:07:24,644 Debug: Convolved the ECG signal with the kernel
+2016-11-09 20:07:24,645 Debug: Divided the convolved signal with the kernel
+2016-11-09 20:07:24,645 Debug: Just calculated and removed the DC offset from signal!
+2016-11-09 20:07:24,645 debug: The ECG Threshold has just been found
+2016-11-09 20:07:24,645 Info: The instantaneous heart rate average is being calculated
+2016-11-09 20:07:24,653 Info: The one minute heart rate average is being calculated
+2016-11-09 20:07:24,653 Info: The five minute heart rate average is being calculated
+2016-11-09 20:07:24,653 Warning: Tachycardia is happening here!
+2016-11-09 20:07:35,676 Debug: Convolved the ECG signal with the kernel
+2016-11-09 20:07:35,677 Debug: Divided the convolved signal with the kernel
+2016-11-09 20:07:35,677 Debug: Just calculated and removed the DC offset from signal!
+2016-11-09 20:07:35,677 debug: The ECG Threshold has just been found
+2016-11-09 20:07:35,677 Info: The instantaneous heart rate average is being calculated
+2016-11-09 20:07:35,681 Info: The one minute heart rate average is being calculated
+2016-11-09 20:07:35,681 Info: The five minute heart rate average is being calculated
+2016-11-09 20:07:35,682 Warning: Tachycardia is happening here!
+2016-11-09 20:07:46,701 Debug: Convolved the ECG signal with the kernel
+2016-11-09 20:07:46,702 Debug: Divided the convolved signal with the kernel
+2016-11-09 20:07:46,702 Debug: Just calculated and removed the DC offset from signal!
+2016-11-09 20:07:46,703 debug: The ECG Threshold has just been found
+2016-11-09 20:07:46,703 Info: The instantaneous heart rate average is being calculated
+2016-11-09 20:07:46,707 Info: The one minute heart rate average is being calculated
+2016-11-09 20:07:46,707 Info: The five minute heart rate average is being calculated
+2016-11-09 20:07:46,707 Warning: Tachycardia is happening here!
+2016-11-09 20:07:57,722 Debug: Convolved the ECG signal with the kernel
+2016-11-09 20:07:57,722 Debug: Divided the convolved signal with the kernel
+2016-11-09 20:07:57,722 Debug: Just calculated and removed the DC offset from signal!
+2016-11-09 20:07:57,723 debug: The ECG Threshold has just been found
+2016-11-09 20:07:57,723 Info: The instantaneous heart rate average is being calculated
+2016-11-09 20:07:57,728 Info: The one minute heart rate average is being calculated
+2016-11-09 20:07:57,747 Info: The five minute heart rate average is being calculated
+2016-11-09 20:07:57,747 Warning: Tachycardia is happening here!
+2016-11-09 20:08:08,770 Debug: Convolved the ECG signal with the kernel
+2016-11-09 20:08:08,770 Debug: Divided the convolved signal with the kernel
+2016-11-09 20:08:08,770 Debug: Just calculated and removed the DC offset from signal!
+2016-11-09 20:08:08,770 debug: The ECG Threshold has just been found
+2016-11-09 20:08:08,770 Info: The instantaneous heart rate average is being calculated
+2016-11-09 20:08:08,778 Info: The one minute heart rate average is being calculated
+2016-11-09 20:08:08,801 Info: The five minute heart rate average is being calculated
+2016-11-09 20:08:08,801 Warning: Tachycardia is happening here!
+2016-11-09 20:08:19,820 Debug: Convolved the ECG signal with the kernel
+2016-11-09 20:08:19,821 Debug: Divided the convolved signal with the kernel
+2016-11-09 20:08:19,821 Debug: Just calculated and removed the DC offset from signal!
+2016-11-09 20:08:19,821 debug: The ECG Threshold has just been found
+2016-11-09 20:08:19,821 Info: The instantaneous heart rate average is being calculated
+2016-11-09 20:08:19,830 Info: The one minute heart rate average is being calculated
+2016-11-09 20:08:19,850 Info: The five minute heart rate average is being calculated
+2016-11-09 20:08:19,850 Warning: Tachycardia is happening here!
+2016-11-09 20:08:30,872 Debug: Convolved the ECG signal with the kernel
+2016-11-09 20:08:30,873 Debug: Divided the convolved signal with the kernel
+2016-11-09 20:08:30,874 Debug: Just calculated and removed the DC offset from signal!
+2016-11-09 20:08:30,874 debug: The ECG Threshold has just been found
+2016-11-09 20:08:30,874 Info: The instantaneous heart rate average is being calculated
+2016-11-09 20:08:30,881 Info: The one minute heart rate average is being calculated
+2016-11-09 20:08:30,902 Info: The five minute heart rate average is being calculated
+2016-11-09 20:08:30,902 Warning: Tachycardia is happening here!
+2016-11-09 20:08:41,922 Debug: Convolved the ECG signal with the kernel
+2016-11-09 20:08:41,924 Debug: Divided the convolved signal with the kernel
+2016-11-09 20:08:41,924 Debug: Just calculated and removed the DC offset from signal!
+2016-11-09 20:08:41,924 debug: The ECG Threshold has just been found
+2016-11-09 20:08:41,924 Info: The instantaneous heart rate average is being calculated
+2016-11-09 20:08:41,930 Info: The one minute heart rate average is being calculated
+2016-11-09 20:08:41,950 Info: The five minute heart rate average is being calculated
+2016-11-09 20:08:41,951 Warning: Tachycardia is happening here!
+2016-11-09 20:08:52,967 Debug: Convolved the ECG signal with the kernel
+2016-11-09 20:08:52,967 Debug: Divided the convolved signal with the kernel
+2016-11-09 20:08:52,967 Debug: Just calculated and removed the DC offset from signal!
+2016-11-09 20:08:52,968 debug: The ECG Threshold has just been found
+2016-11-09 20:08:52,968 Info: The instantaneous heart rate average is being calculated
+2016-11-09 20:08:52,974 Info: The one minute heart rate average is being calculated
+2016-11-09 20:08:52,995 Info: The five minute heart rate average is being calculated
+2016-11-09 20:08:52,995 Warning: Tachycardia is happening here!
+2016-11-09 20:09:04,017 Debug: Convolved the ECG signal with the kernel
+2016-11-09 20:09:04,019 Debug: Divided the convolved signal with the kernel
+2016-11-09 20:09:04,019 Debug: Just calculated and removed the DC offset from signal!
+2016-11-09 20:09:04,019 debug: The ECG Threshold has just been found
+2016-11-09 20:09:04,019 Info: The instantaneous heart rate average is being calculated
+2016-11-09 20:09:04,025 Info: The one minute heart rate average is being calculated
+2016-11-09 20:09:04,045 Info: The five minute heart rate average is being calculated
+2016-11-09 20:09:04,045 Warning: Tachycardia is happening here!
+2016-11-09 20:09:15,482 Info:The Heart Rate Trace is being plotted now
+2016-11-20 14:11:18,972 Debug: Just constructed the ECG Time array!!
+2016-11-20 14:11:18,975 Debug: Convolved the ECG signal with the kernel
+2016-11-20 14:11:18,975 Debug: Divided the convolved signal with the kernel
+2016-11-20 14:11:18,975 Debug: Just calculated and removed the DC offset from signal!
+2016-11-20 14:11:18,976 debug: The ECG Threshold has just been found
+2016-11-20 14:11:18,976 Info: The instantaneous heart rate average is being calculated
+2016-11-20 14:11:18,980 Info: The one minute heart rate average is being calculated
+2016-11-20 14:11:18,980 Info: The five minute heart rate average is being calculated
+2016-11-20 14:11:18,980 Warning: Tachycardia is happening here!
